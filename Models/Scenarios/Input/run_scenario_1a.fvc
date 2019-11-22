@@ -1,0 +1,58 @@
+! Peel-Harvey Estuary Visual Observatory Simulation
+!____________________________________________________________
+!
+!TIME COMMANDS
+!_________________________________________________________________
+time format == ISODATE
+reference time == 01/01/2001
+start time == 01/11/2015 12:00:00
+end time ==  01/01/2018 00:00:00
+
+
+waterqualitymodel == EXTERNAL
+external water quality model dir == ..\External\AED2\Scenario_1\
+
+!_________________________________________________________________
+!
+!Initial Conditions
+! We only have IC from 1980. Before use 1980. After use 2016
+!_________________________________________________________________
+
+INITIAL CONDITION 2D == ..\BC\IC\IC_Peel_20151101.csv
+
+!restart == log/sim_2008_Open.rst
+!Use Restart File TIme == 0
+
+!_________________________________________________________________
+!
+!Commands across all simulations
+!_________________________________________________________________
+
+include == include/main_3D.fvc
+
+!_________________________________________________________________
+!
+!Boundary Files
+!_________________________________________________________________
+
+
+include == include\met_basecase.fvc
+
+!_________________________________________________________________
+!
+!Inflows
+!_________________________________________________________________
+
+Ntracer == 1
+
+
+include == include\BC_scenario_1a.fvc
+
+
+!OUTPUT COMMANDS
+!_________________________________________________________________
+
+include == include\include_output.fvc
+
+write restart dt == 240.
+Restart overwrite == 0

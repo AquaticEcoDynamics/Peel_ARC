@@ -1,0 +1,117 @@
+! Peel-Harvey Estuary Visual Observatory Simulation
+!____________________________________________________________
+!
+!TIME COMMANDS
+!_________________________________________________________________
+time format == ISODATE
+reference time == 01/01/2001
+start time == 01/01/2017 12:00:00
+end time ==  01/04/2017 00:00:00
+
+!_________________________________________________________________
+!Structures
+! Change file anme for Open or closed (Open is only open after April 1994)
+!_________________________________________________________________
+
+!dawesvilleweir
+
+
+
+!_________________________________________________________________
+!
+!Initial Conditions
+! We only have IC from 1980. Before use 1980. After use 2016
+!_________________________________________________________________
+
+INITIAL CONDITION 2D == ..\BC\IC\run_2017_isotope.csv
+
+!restart == log/sim_2008_Open.rst
+!Use Restart File TIme == 0
+
+!_________________________________________________________________
+!
+!Commands across all simulations
+!_________________________________________________________________
+
+include == include/main_3D_nN2O_Postcut.fvc
+
+!_________________________________________________________________
+!
+!Boundary Files
+!_________________________________________________________________
+
+
+bc == W10, ..\BC\Met\met_combined_1950_2090.csv
+  bc header == ISOTime,Wx,Wy
+  bc scale  == 0.7,0.7
+end bc
+
+bc == AIR_TEMP, ..\BC\Met\met_combined_1950_2090.csv
+  bc header == ISOTime,ATemp
+end bc
+
+bc == REL_HUM, ..\BC\Met\met_combined_1950_2090.csv
+  bc header == ISOTime,Rel_Hum
+  bc scale == 0.5
+end bc
+
+bc == SW_RAD, ..\BC\Met\met_combined_1950_2090.csv
+  bc header == ISOTime,Sol_Rad
+  bc scale == 0.95
+end bc
+
+bc == PRECIP, ..\BC\Met\rain_1950_2090.csv
+  bc header == ISOTime,Precip
+end bc
+
+
+
+!_________________________________________________________________
+!
+!Inflows
+!_________________________________________________________________
+
+Ntracer == 1
+
+
+!_________________________________________________________________
+!
+!TIDE: Tidal file split in two. 1950 - 2020, 2020-2090
+!_________________________________________________________________
+
+!! Tide
+bc == WL, 1, ..\BC\All_nN2O\Peel_Tide_1970_2019.csv
+  bc header ==  ISOTime,wl,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+  bc offset == -0.67,0,0,0,0
+end bc
+
+!_________________________________________________________________
+!
+!Guaged Inflows TRACER 2 to 4
+!_________________________________________________________________
+
+
+bc == Q, 2, ..\BC\All_nN2O\Older Files\Harvey.csv
+  bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+end bc
+
+bc == QC,394596.77,6389252.21, ..\BC\All_nN2O\Older Files\Pinjarra.csv
+  bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+  Vertical coordinate type == depth
+  Vertical distribution  == inf_depth.csv
+end bc
+
+bc == Q, 4, ..\BC\All_nN2O\Older Files\Serpentine.csv
+  bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+end bc
+
+include == BC_include_nN2O_2000.fvc
+
+
+!OUTPUT COMMANDS
+!_________________________________________________________________
+
+include == include_output.fvc
+
+write restart dt == 86400.
+restart overwrite == 0

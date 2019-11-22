@@ -1,0 +1,38 @@
+output dir ==  ..\Output\
+
+!output == netcdf
+!  output parameters == h,v,w,d,Sal,Temp,WQ_OXY_OXY
+!  output interval == 7200.00
+!end output
+!
+!output == netcdf
+!  Suffix  == state
+!  output parameters == d,wq_all
+!  output interval == 21600.00
+!end output
+!
+!output == netcdf
+!  Suffix  == diag
+!  output parameters == d,wq_diag_all
+!  output interval == 43200.00
+!end output
+!
+!output == netcdf
+!  !Suffix  == all
+!  output parameters == h,v,w,d,Sal,Temp,wq_all,wq_diag_all
+!  output interval == 14400.00
+!end output
+
+
+output == netcdf
+  output parameters == h,v,d,Sal,Temp,WQ_ALL,WQ_DIAG_ALL
+  output interval == 21600.00
+end output
+
+output == flux
+	output interval == 7200
+end output
+
+
+!write restart dt == 86400.
+!restart overwrite == 1

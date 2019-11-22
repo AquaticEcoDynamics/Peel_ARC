@@ -1,0 +1,129 @@
+! SIMULATION CONFIGURATION
+!_________________________________________________________________
+cfl external == 0.9
+cfl internal == 0.9
+timestep limits == 0.01, 10.0 ! Min and Max Timesteps
+turbulence update dt == 60                                     ! for GOTM (s)
+display dt == 300
+
+momentum mixing model == SMAGORINSKY
+scalar mixing model == ELDER
+LONGWAVERADIATIONMODEL == 5
+LONGWAVERADIATIONALBEDO == 0.03
+SHORTWAVERADIATIONALBEDO == 0.03
+SHORTWAVERADIATIONEXTINCTIONCOEFFICIENTS == 5.00000,1.20000,3.00000,5.00000
+SHORTWAVERADIATIONFRACTIONS == 0.51,0.45,0.035,0.005
+
+include heat == 1,1
+include salinity == 1,1
+include temperature == 1,1
+include sediment == 0,0
+spatial order == 1,2
+
+horizontal gradient limiter == LCD
+vertical gradient limiter == MC
+bottom drag model == ks
+equation of state == UNESCO
+
+vertical mixing model == external
+external turbulence model dir == ..\..\External_Postcut\GOTM\
+waterqualitymodel == EXTERNAL
+external water quality model dir == ..\..\External_Postcut\AED2\
+
+!MODEL PARAMETERS
+!_________________________________________________________________
+stability limits == 100.,500.
+cell wet/dry depths == 0.1, 0.1
+global horizontal eddy viscosity == 0.1
+global horizontal scalar diffusivity == 100.0,10.0
+g == 9.81
+reference density == 1025.
+latitude == -32.8
+
+!GEOMETRY
+!_________________________________________________________________
+geometry 2d == ..\..\Geo\Peelv4_Sed_Oxy_Coolup_hole_UM_50m_polygon_min05m.2dm
+!Cell elevation file == ..\..\Geo\Peelv4_Sed_Oxy_Coolup_hole_UM.csv
+!echo geometry csv == 0
+echo geometry netcdf == 1
+vertical mesh type == z
+layer faces == ..\..\Geo\layers_Z_v4.csv
+sigma layers == 4
+min bottom layer thickness == 0.16
+cell 3d depth == 5.0e-1
+
+!MATERIAL
+!_________________________________________________________________
+material == 1  !
+  bottom roughness == 0.9
+end material
+material == 2  !
+  bottom roughness == 0.3
+end material
+material == 3  !
+  bottom roughness == 0.3
+end material
+material == 4  !
+  bottom roughness == 0.9
+end material
+material == 5  !
+  bottom roughness == 0.9
+end material
+material == 6  !
+  bottom roughness == 0.3
+end material
+material == 7  !
+  bottom roughness == 0.9
+end material
+material == 8  !
+  bottom roughness == 0.5
+end material
+material == 9  !
+  bottom roughness == 0.6
+end material
+material == 10  !
+  bottom roughness == 0.6
+end material
+material == 11  !
+  bottom roughness == 0.9
+end material
+material == 12  !
+  bottom roughness == 0.3
+end material
+material == 13  !
+  bottom roughness == 0.6
+end material
+material == 14  !
+  bottom roughness == 0.9
+end material
+material == 15  !
+  bottom roughness == 0.3
+end material
+material == 16  !
+  bottom roughness == 0.9
+end material
+material == 17  !
+  bottom roughness == 0.01
+end material
+material == 18  !
+  bottom roughness == 0.01
+end material
+material == 19  !
+  bottom roughness == 0.01
+end material
+material == 20  !
+  bottom roughness == 0.1
+end material
+material == 21  !
+  bottom roughness == 0.1
+end material
+material == 22  !
+  bottom roughness == 0.5
+end material
+material == 23  !
+  bottom roughness == 0.06
+end material
+material == 24  !
+  bottom roughness == 0.1
+end material
+!_________________________________________________________________

@@ -1,0 +1,167 @@
+!! Tide
+bc == WL, 1, ..\..\BC\Tide\Peel_Tide_1970_2019.csv
+  bc header ==  ISOTime,wl,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+  bc offset == -0.47,0,0.4,0,0
+end bc
+
+!_________________________________________________________________
+!
+!Guaged Inflows TRACER 2 to 4
+!_________________________________________________________________
+
+
+bc == Q, 2, ..\..\BC\Inflows\Scenario_3b\22_Harvey.csv
+  bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+  !bc scale == 0.8,1,1,1,1
+  bc offset == 0,0,0.5,0,0
+end bc
+
+bc == QC,394596.77,6389252.21, ..\..\BC\Inflows\Scenario_3b\09_Pinjarra.csv
+  bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+  !bc scale == 0.8,1,1,1,1
+  bc offset == 0,0,0.5,0,0
+  Vertical coordinate type == depth
+  Vertical distribution  == inf_depth.csv
+end bc
+
+bc == Q, 4, ..\..\BC\Inflows\Scenario_3b\01_Serpentine.csv
+  bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+  !bc scale == 0.8,1,1,1,1
+  bc offset == 0,0,0.5,0,0
+end bc
+
+
+
+bc == QC,391686.0154,6417832.8157, ..\..\BC\Inflows\Scenario_3b\02_Upper_Serpentine.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+bc == QC,390067.9124,6414601.8884, ..\..\BC\Inflows\Scenario_3b\03_Peel_Main_Drain.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+bc == QC,389066.0154,6409722.8157, ..\..\BC\Inflows\Scenario_3b\04_Yangedi_Swamp.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+bc == QC,388818.6840,6412251.0600, ..\..\BC\Inflows\Scenario_3b\05_Lower_Serpentine.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+bc == QC,387611.8470,6405444.3500, ..\..\BC\Inflows\Scenario_3b\06_Gull_Road.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+bc == QC,387783.6236,6400312.8157, ..\..\BC\Inflows\Scenario_3b\07_Nambeelup.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+bc == QC,384699.4950,6401546.8300, ..\..\BC\Inflows\Scenario_3b\08_Lower_Serpentine.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+!bc == QC,394601.6690,6389268.1100, ..\..\BC\Inflows\Scenario_3b\09_Murray_River.csv
+!bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+!bc offset == 0,0,0.5,0,0
+
+bc == QC,394286.0154,6391372.8157, ..\..\BC\Inflows\Scenario_3b\10_Upper_Murray.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+bc == QC,393601.4930,6393507.0500, ..\..\BC\Inflows\Scenario_3b\11_South_Dandalup.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+bc == QC,389806.0154,6394082.8157, ..\..\BC\Inflows\Scenario_3b\12_Oakley.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+bc == QC,389080.4911,6395169.8054, ..\..\BC\Inflows\Scenario_3b\13_Nambeelup.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+bc == QC,384906.6541,6395269.5880, ..\..\BC\Inflows\Scenario_3b\14_Lakes_Road.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+bc == QC,384960.4030,6392224.8100, ..\..\BC\Inflows\Scenario_3b\15_Meelon.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+bc == QC,384862.8150,6388352.9700, ..\..\BC\Inflows\Scenario_3b\16_Nirimba.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+bc == QC,383586.9920,6387929.9600, ..\..\BC\Inflows\Scenario_3b\17_Coolup.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+bc == QC,378482.8491,6387601.6486, ..\..\BC\Inflows\Scenario_3b\18_Bouvard.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+bc == QC,377802.4019,6382182.1624, ..\..\BC\Inflows\Scenario_3b\19_Clifton.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+bc == QC,378962.6278,6378895.0757, ..\..\BC\Inflows\Scenario_3b\20_Waroona.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+bc == QC,380539.5690,6374867.1800, ..\..\BC\Inflows\Scenario_3b\21_Yackaboon.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+bc == QC,381008.6893,6369915.1102, ..\..\BC\Inflows\Scenario_3b\22_Hamel.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+bc == QC,380270.8080,6372201.1544, ..\..\BC\Inflows\Scenario_3b\23_Old_Bunbury_Road.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+
+bc == QC,382445.9010,6396277.0600, ..\..\BC\Inflows\Scenario_3b\25_Mandurah.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc offset == 0,0,0.5,0,0
+end bc
+
+! Ground water input - Murray River
+bc == QC,394250.5,6392653.5, ..\..\BC\Inflows\gw.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc scale == 2
+vertical coordinate type == height
+vertical distribution == ..\..\Geo\gw_z.csv
+end bc
+
+bc == QC,391471.6,6393694.8, ..\..\BC\Inflows\gw.csv
+bc header == ISOTime,flow,Sal,Temp,TRACE_1,AGE,SS1,SS2,Oxy,Sil,Amm,Nit ,FRP,FRP_ADS,DOC,POC,DON,PON,DOP,POP,DOCR,DONR,DOPR,CPOM,GRN,CRYTO,DIATOM,DINO,DINO_IN,BGA,BGA_RHO,CHAET,CHAET_IN,CHAET_IP,BIV
+bc scale == 2
+vertical coordinate type == height
+vertical distribution == ..\..\Geo\gw_z.csv
+end bc
+
+
+
+

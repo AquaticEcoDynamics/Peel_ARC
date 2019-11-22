@@ -1,0 +1,27 @@
+bc == W10, ..\..\BC\Met\met_combined_1950_2090.csv
+  bc header == ISOTime,Wx,Wy
+  bc scale  == 0.7,0.7
+end bc
+
+bc == AIR_TEMP, ..\..\BC\Met\met_combined_1950_2090.csv
+  bc header == ISOTime,ATemp
+end bc
+
+bc == REL_HUM, ..\..\BC\Met\met_combined_1950_2090.csv
+  bc header == ISOTime,Rel_Hum
+  bc scale == 0.5
+end bc
+
+bc == SW_RAD, ..\..\BC\Met\met_combined_1950_2090.csv
+  bc header == ISOTime,Sol_Rad
+  bc scale == 0.9
+end bc
+
+bc == LW_NET, ..\..\BC\Met\met_combined_1950_2090.csv
+  bc header == ISOTime,LW_NET
+  bc scale == 1.0
+end bc
+
+bc == PRECIP, ..\..\BC\Met\rain_1950_2090.csv
+  bc header == ISOTime,Precip
+end bc
