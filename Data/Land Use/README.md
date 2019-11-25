@@ -9,3 +9,6 @@ Data archive for the DWER's Land Use shape file.
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Landuses.png">
 
 
+| Contact           |Email Address            |
+|------------------|-------------------------|
+|Karl Hennig|karl.hennig@dwer.wa.gov.au|

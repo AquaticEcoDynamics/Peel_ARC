@@ -23,7 +23,9 @@ Weekly data collected by the Marine and Freshwater Laboratory out of Murdoch Uni
 ```
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/MAFRL.png">
 
-
+| Contact           |Email Address            |
+|------------------|-------------------------|
+|Marine and Freshwater Laboratory|k.wienczugow@murdoch.edu.au|
 ---
 
 ## WIR
@@ -44,7 +46,9 @@ data.site.variable.Title
 data.site.variable.Units
 ```
 
-
+| Contact           |Website|Email Address            |
+|------------------|---------|----------------|
+|Water Information Reporting|http://wir.water.wa.gov.au/Pages/Water-Information-Reporting.aspx|wir@water.wa.gov.au|
 
 
 
