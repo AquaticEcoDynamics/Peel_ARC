@@ -62,7 +62,6 @@ Inflow locations
 |Harvey River               |				1279.225|
 |Mandurah                   |				24.18   |
 
-<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/inflow2.png">
 
 ---
 Each bounday inflow contains the below variables. 
