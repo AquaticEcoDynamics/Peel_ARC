@@ -13,23 +13,38 @@ The PHERM is coupled with the catchment model to study the water quality and eco
 
 ### Model Software
 
-The <a href="https://www.tuflow.com/Tuflow%20FV.aspx">Tuflow-FV model</a> is produce by BMT. The 2019 version of their software can be optained by containing their <a href="https://www.tuflow.com/Contact.aspx">sales team.</a>
+Catchment model: SOURCE catchment model
 
-The AED2 Biogeochemistry model can be obtained from the details below:
+Hydrodynamic platform: TUFLOW-FV, http://tuflow.com/FV%20Documentation.aspx 
 
--	AED2 1.3.0 (Hipsey et al., 2019a): available at https://zenodo.org/record/2538495#.XJzufy1L1R4 
--	AED2+ 1.3.0 (available on request and required for bivalves, macroalgae).
+Water quality model: AED2, http://aed.see.uwa.edu.au/research/models/AED/index.html  
+
 
 ---
 
-### Input Files
+### Input Data
+
+Inflow rates and its related nutrient loadings produced from the catchment model were used as input data for PHERM. 
+
+<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/scenario_table.JPG">
+
+**Table 1. Summary of the eight scenarios modelled using the calibrated catchment model. ‘Base case’ refers to current catchment land-use and management level.**
 
 ---
 
 ### Outputs
 
+A series of key hydrodynamic and water quality attributes were produced by PHERM in each scenario, then were then analyzed to produce ecological index for ecological services, including:
+-	Hydrology: salinity, temperature, stratification
+-	Water quality: carbon, nitrogen, and phosphorus concentrations, DO, phytoplankton biomass
+-	Ecological services: juvenile and adult crab habitats; cyanobacteria and dinoflagellate habitats, Index of water quality
+
+
 ---
 
 ## Documents & Links
+
+-	Model files: https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Models/PHERM/Scenarios
+-	Scenario report: https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Documents 
 
 ---
