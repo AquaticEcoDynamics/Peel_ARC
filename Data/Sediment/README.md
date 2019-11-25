@@ -7,8 +7,8 @@ Data archive for Murdoch University's sediment mapping Peel-Harvey Estuary.
 Data was collected and graded at 160 sites around the Estuary.
 
 
-<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/sediment.png">
+<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/sed1.jpg">
 
 
-<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/cluster.png">
+<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/sed2.jpg">
 
