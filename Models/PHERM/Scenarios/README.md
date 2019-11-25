@@ -9,6 +9,7 @@ The PHERM is coupled with the catchment model to study the water quality and eco
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Scenario Pic.png">
 
 **Figure 1. Diagram of the coupling of catchment model and PHERM, and its application in balancing trade-offs between economic and environmental health.**
+
 ---
 
 ### Model Software
