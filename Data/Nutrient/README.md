@@ -23,7 +23,9 @@ Weekly data collected by the Marine and Freshwater Laboratory out of Murdoch Uni
 ```
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/MAFRL.png">
 
-
+| Conact           |Email Address            |
+|------------------|-------------------------|
+|Marine and Freshwater Laboratory|k.wienczugow@murdoch.edu.au|
 ---
 
 ## WIR
