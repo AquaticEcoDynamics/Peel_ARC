@@ -18,6 +18,19 @@ The AED2 Biogeochemistry model can be obtained from the details below:
 ---
 
 ## Input Files
+### Meteorological Inputs
+
+
+
+| File Name|Variable|Dry Climate Factors|
+|--------------------------|-------|------|
+|met_combined_1950_2090.csv	|Wx Wy				|N/A|
+|met_combined_1950_2090.csv	|Air Temperature    |+0.7C|
+|met_combined_1950_2090.csv	|Relative Humidity  |-1%|
+|met_combined_1950_2090.csv	|Solar Rad.         |N/A|
+|met_combined_1950_2090.csv	|Long Wave Rad.     |N/A|
+|rain_1950_2090.csv			|Precip             |-10%|
+
 
 ---
 
