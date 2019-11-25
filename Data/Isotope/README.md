@@ -5,3 +5,5 @@ Data archive for Southern Cross Univeristy Isotope sampling around the Peel-Harv
 ---
 
 Data has been removed upon request due to it's publication still pending.
+
+<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/isotope.jpg">
