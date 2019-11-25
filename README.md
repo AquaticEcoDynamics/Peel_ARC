@@ -1,7 +1,10 @@
-# ARC Linkage Project
+# ARC Linkage Project   <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/ARC.jpeg" width="189" height="51.5" align="right">
+
+
+
 ## Data, Model & Document Repository
 
-This is the repository for relevant data, models and documents for the ARC Linkage Project: 
+This is the repository for relevant **data, models and documents** for the ARC Linkage Project: 
 
 **Balancing estuarine and societal health in a changing environment (LP150100451).**
 
@@ -10,12 +13,21 @@ solutions that best optimise trade-offs between catchment development aspiration
 
 
 **Chief & Partner Investigators**
--	Dr Fiona Valesini - Murdoch (CI)
+-	Dr Fiona Valesini - Murdoch Uni (CI)
 -	Assoc. Prof. Matt Hipsey – UWA (CI)
 -	Prof. Brad Eyre – Sthn Cross Uni. (CI)
 -	Prof. Paul Plummer – UWA (CI)
 -	Prof. Mike Elliott – Uni. Hull (PI)
 -	Dr Kieryn Kilminster – Dept Water (PI)
+
+**Partner Organisations**
+-	Dept Premier & Cabinet
+-	Dept Water
+-	City of Mandurah
+-	Shire of Murray
+-	Peel-Harvey Catchment Council
+-	University of Hull
+
 
 
 ## Contents:
@@ -23,3 +35,4 @@ solutions that best optimise trade-offs between catchment development aspiration
 - [Data](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Data)
 - [Models](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Models)
 - [Documents](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Documents)
+1
