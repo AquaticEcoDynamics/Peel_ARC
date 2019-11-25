@@ -7,7 +7,6 @@
  Model description to come.
  
  
- <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Scenario Pic.png">
 
  ---
  
