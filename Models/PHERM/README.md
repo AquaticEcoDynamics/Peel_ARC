@@ -1,5 +1,5 @@
 # PHERM
-## Peel-Harvey Estuary Responce Model
+## Peel-Harvey Estuary Response Model
 
 ---
 ### Overview
