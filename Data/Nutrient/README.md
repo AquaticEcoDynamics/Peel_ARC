@@ -21,4 +21,4 @@ Weekly data collected by the Marine and Freshwater Laboratory out of Murdoch Uni
 - ChlA
 - PHAEO
 
-<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/MAFRL.tif">
+<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/MAFRL.png">
