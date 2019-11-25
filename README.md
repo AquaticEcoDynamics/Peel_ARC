@@ -73,7 +73,12 @@ The Primary point of contact for the data repository is <a href="mailto:brendan.
 
 ## Models
 
+<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Scenario Pic.png">
 
+The models have been catalogued into two in groups:
+
+- Catchment
+- PHERM **P**eel-**H**arvey **E**stuary **R**esponse **M**odel
 
 ---
 
