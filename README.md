@@ -54,7 +54,7 @@ solutions that best optimise trade-offs between catchment development aspiration
 
 Contained within this repository is data collected as part of the linkage program as well as 3rd party data collected in order to facilitate the modelling components.
 
-The data has been catalogued into the catagories:
+The data has been catalogued into the following catagories:
 
 - Benthic Macroinvertebrate
 - BOM Met
@@ -67,7 +67,7 @@ The data has been catalogued into the catagories:
 - Phytoplankton
 - Sediment
 
-The Primary point of contact for the data repository is <a href="mailto:brendan.busch@uwa.edu.au">Brendan Busch</a>
+The Primary point of contact for the data repository is <a href="mailto:brendan.busch@uwa.edu.au">*Brendan Busch*</a>
 
 ---
 
