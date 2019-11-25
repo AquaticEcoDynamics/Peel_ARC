@@ -31,6 +31,48 @@ The AED2 Biogeochemistry model can be obtained from the details below:
 |met_combined_1950_2090.csv	|Long Wave Rad.     |N/A|
 |rain_1950_2090.csv			|Precip             |-10%|
 
+### Inflows
+
+Each sounday inflow contains the below variables. 
+
+|Model Variable|Data Source|
+|----------|----------------|
+|Q			|Catchment Model		|
+|Sal			|Field Data         |
+|Temp		|Field Data             |
+|TRACE_1		|Field Data         |
+|AGE			|Field Data         |
+|SS1			|Field Data         |
+|SS2			|Field Data         |
+|Oxy			|Field Data         |
+|Sil			|Field Data         |
+|Amm			|Catchment Model    |
+|Nit 		|Catchment Model        |
+|FRP			|Catchment Model    |
+|FRP_ADS		|Catchment Model    |
+|DOC			|Field Data         |
+|POC			|Field Data         |
+|DON			|Catchment Model    |
+|PON			|Catchment Model    |
+|DOP			|Catchment Model    |
+|POP			|Catchment Model    |
+|DOCR		|Field Data             |
+|DONR		|Field Data             |
+|DOPR		|Catchment Model        |
+|CPOM		|Field Data             |
+|GRN			|Field Data         |
+|CRYTO		|Field Data             |
+|DIATOM		|Field Data             |
+|DINO		|Field Data             |
+|DINO_IN		|Field Data         |
+|BGA			|Field Data         |
+|BGA_RHO		|Field Data         |
+|CHAET		|Field Data             |
+|CHAET_IN	|Field Data             |
+|CHAET_IP	|Field Data             |
+|BIV			|Field Data         |
+
+
 
 ---
 
