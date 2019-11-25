@@ -33,7 +33,7 @@ The AED2 Biogeochemistry model can be obtained from the details below:
 
 ### Inflows
 
-Each sounday inflow contains the below variables. 
+Each bounday inflow contains the below variables. 
 
 |Model Variable|Data Source|
 |----------|----------------|
