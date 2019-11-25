@@ -11,4 +11,4 @@ Data archive for the DWER's Land Use shape file.
 
 | Contact           |Email Address            |
 |------------------|-------------------------|
-|Karl Henning|karl.hennig@dwer.wa.gov.au|
+|Karl Hennig|karl.hennig@dwer.wa.gov.au|
