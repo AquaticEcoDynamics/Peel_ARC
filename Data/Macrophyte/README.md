@@ -12,7 +12,7 @@ Data has been removed upon request due to it's publication still pending.
 ---
 
 
-<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/macrophyte.jpg">
+<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/mac1.jpg">
 
 
 
