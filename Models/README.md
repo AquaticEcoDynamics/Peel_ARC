@@ -29,6 +29,11 @@ For more details of the AED model and its numerical methods the readers are refe
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/AED.png">
 
  
+The <a href="https://www.tuflow.com/Tuflow%20FV.aspx">Tuflow-FV model</a> is produce by BMT. The 2019 version of their software can be optained by containing their <a href="https://www.tuflow.com/Contact.aspx">sales team.</a>
+
+
+ 
+ 
  
  
 
