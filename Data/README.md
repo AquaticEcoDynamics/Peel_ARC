@@ -4,18 +4,20 @@ The data archive consists of data collected by multiple organisations, across 10
 
 The archive has been broken up into different catagories:
 
-- Benthic Macroinvertebrate
-- BOM Met
-- Crab
-- Fish
-- Isotope
-- Land Use
-- Macrophyte
-- Nutrient
-- Phytoplankton
-- Sediment
+|Data Type                |Organisation|Time Period|
+|-------------------------|--------------------|--------|
+|Benthic Macroinvertebrate|Murdoch University  |				|
+|BOM Met                  |Bueau Or Meteorology|				|
+|Fish                     |Murdoch University  |				|
+|Isotope                  |Murdoch University  |				|
+|Land Use                 |DWER                |				|
+|Macrophyte               |Murdoch University  |				|
+|Nutrient (MAFRL)         |Murdoch University  |				|
+|Nutrient (WIR)           |DWER                |				|
+|Phytoplankton            |DWER                |				|
+|Sediment                 |Murdoch University  |				|
 
-Some of these archives are intentionally empty, as the data is still being published. Please contact the person / agency responcible for the data for more information. Their contact details are contained within the respective archives.
+Some of these archives are intentionally empty, as the data is still being published. Please contact the person / agency responsible for the data for more information. Their contact details are contained within the respective archives.
 
 
 
