@@ -35,7 +35,7 @@ The AED2 Biogeochemistry model can be obtained from the details below:
 Inflow locations
 
 
-<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/inflows2.png">
+<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/inflow2.png">
 
 ---
 Each bounday inflow contains the below variables. 
