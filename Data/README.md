@@ -9,7 +9,7 @@ The archive has been broken up into different catagories:
 |Benthic Macroinvertebrate|Murdoch University  |2017 - 2018|
 |BOM Met                  |Bureau Or Meteorology|1970 - 2018|
 |Fish                     |Murdoch University  |2016 - 2018|
-|Isotope                  |Murdoch University  |2017 - 2018|
+|Isotope                  |Southern Cross University|2017 - 2018|
 |Land Use                 |DWER                |N/A|
 |Macrophyte               |Murdoch University  |1978 - 2018|
 |Nutrient (MAFRL)         |Murdoch University  |1970 - 2001|
