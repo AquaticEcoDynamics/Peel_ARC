@@ -14,7 +14,7 @@
 
 ### 3. Estuarine Ecological Health
 - [Benthic invertebrates/ARC Linkage PHE-Benthic Macro-Invertebrates.pdf](https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Documents/3.%20Estuarine%20Ecological%20Health/Benthic%20invertebrates/ARC%20Linkage%20PHE-Benthic%20Macro-Invertebrates.pdf)
-- Fish/
+- [Fish/ARC Linkage PHE-Fish ecology.pdf](https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Documents/3.%20Estuarine%20Ecological%20Health/Fish/ARC%20Linkage%20PHE-Fish%20ecology.pdf)
 - [Macrophytes/ARC Linkage PHE-Macrophytes.pdf](https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Documents/3.%20Estuarine%20Ecological%20Health/Macrophytes/ARC%20Linkage%20PHE-Macrophytes.pdf)
 
 ### 4. Economic Health
