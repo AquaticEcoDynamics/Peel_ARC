@@ -34,6 +34,33 @@ The AED2 Biogeochemistry model can be obtained from the details below:
 ### Inflows
 Inflow locations
 
+|Inflow Name|Contributing Area (km2)|
+|-----------|-----------------|
+|Serpentine River			|				1133.146|
+|Upper Serpentine           |				20.99   |
+|Peel Main Drain            |				124.884 |
+|Yangedi Swamp              |				161.855 |
+|Lower Serpentine           |				22.405  |
+|Gull Rd                    |				22.521  |
+|Kielman                    |				138.674 |
+|Lower Serpentine Drain     |				32.663  |
+|Murray River               |				7044.096|
+|Upper Murray               |				32.256  |
+|South Dandalup             |				705.453 |
+|Oakley                     |				25.911  |
+|Nambeelup                  |				32.256  |
+|Lakes Rd                   |				12.956  |
+|Meelon                     |				13.24   |
+|Nirimba                    |				26.48   |
+|Coolup                     |				89.076  |
+|Bouvard                    |				21.372  |
+|Clifton                    |				37.302  |
+|Waroona                    |				18.651  |
+|Yackaboon                  |				47.496  |
+|Hamel                      |				8.442   |
+|Old Bunbury Road           |				122.135 |
+|Harvey River               |				1279.225|
+|Mandurah                   |				24.18   |
 
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/inflow2.png">
 
