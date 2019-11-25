@@ -7,6 +7,7 @@ The PHERM (Peel-Harvey Estuary Response Model) consists of a 3D hydrodynamic mod
 
 
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/grid.jpg">
+
 **Figure 1. PHERM modelling domain and mesh overview.**
 
 
@@ -21,4 +22,5 @@ Key modelled chemical and biological processes include:
 -	Feedback of chemical or biological attributes to physical properties of water (light extinction, drag, density)
 
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/AED.png">
+
 **Figure 2. AED water quality model diagram summarising interactions captured with the PHERM.**
