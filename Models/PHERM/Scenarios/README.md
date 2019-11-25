@@ -14,7 +14,7 @@ The PHERM is coupled with the catchment model to study the water quality and eco
 
 ### Model Software
 
-Catchment model: SOURCE catchment model
+Catchment model: https://ewater.org.au/products/ewater-source/for-catchments/
 
 Hydrodynamic platform: TUFLOW-FV, http://tuflow.com/FV%20Documentation.aspx 
 
