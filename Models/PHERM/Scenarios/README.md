@@ -33,10 +33,11 @@ The AED2 Biogeochemistry model can be obtained from the details below:
 
 ### Inflows
 Inflow locations
-- Major Inflows marked "SC Guaged"
-- Minor Inflows marked "SC Unguaged"
 
-<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/inflows.png">
+
+<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/inflows2.png">
+
+---
 Each bounday inflow contains the below variables. 
 
 |Model Variable|Data Source|
