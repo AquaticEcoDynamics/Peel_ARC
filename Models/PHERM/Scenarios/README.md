@@ -13,7 +13,7 @@ The <a href="https://www.tuflow.com/Tuflow%20FV.aspx">Tuflow-FV model</a> is pro
 The AED2 Biogeochemistry model can be obtained from the details below:
 
 -	AED2 1.3.0 (Hipsey et al., 2019a): available at https://zenodo.org/record/2538495#.XJzufy1L1R4 
--	AED2+ 1.3.0 (available on request and required for bivalves, macroalgae and seddiagenesis modules).
+-	AED2+ 1.3.0 (available on request and required for bivalves, macroalgae).
 
 ---
 
