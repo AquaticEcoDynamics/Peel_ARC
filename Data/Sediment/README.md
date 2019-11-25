@@ -1,4 +1,4 @@
-## Benthic Macroinvertebrate  <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch.png" width="77.5" height="77.5" align="right">
+## Sediment  <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch.png" width="77.5" height="77.5" align="right">
 
 Data archive for Murdoch University's sediment mapping Peel-Harvey Estuary.
 
