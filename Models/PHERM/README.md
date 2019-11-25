@@ -13,3 +13,14 @@ The models output all variables across the domain at 2-hourly internals for each
 
 **Monthly water quality changes in the pre-Cut and post-Cut period from model output and monitoring data.**
 
+---
+
+<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Yearly_A.png">
+
+**Spring average water age across 8 simulated years, demonstrating the large change in potential for nutrient flushing and retention..**
+
+---
+<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Yearly_B.png">
+
+**Spring average TN across 8 simulated years, demonstrating the large change in potential for nutrient flushing and retention..**
+
