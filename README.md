@@ -78,9 +78,18 @@ The Primary point of contact for the data repository is <a href="mailto:brendan.
 The models have been catalogued into two in groups:
 
 - Catchment
-- PHERM **P**eel-**H**arvey **E**stuary **R**esponse **M**odel
+- PHERM (**P**eel-**H**arvey **E**stuary **R**esponse **M**odel)
+
 
 ---
 
 ## Documents
+
+The Documents archive contains all of the publically available reports.
+
+
+
+---
+
+<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/UWACMYK.png" width="130" height="43" align="left"><img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch.png" width="77.5" height="77.5" align="right">
 
