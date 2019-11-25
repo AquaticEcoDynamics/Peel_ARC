@@ -9,6 +9,7 @@
 ### 2.Characterising the Environment
 - [Catchment model/ARC Linkage PHE-Catchment model.pdf](https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Documents/2.%20Characterising%20the%20Environment/Catchment%20model/ARC%20Linkage%20PHE-Catchment%20model.pdf)
 - [Estuary models/ARC Linkage PHE-Integrated Estuary Model-Hydrology.pdf](https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Documents/2.%20Characterising%20the%20Environment/Estuary%20models/ARC%20Linkage%20PHE-Integrated%20Estuary%20Model-Hydrology.pdf)
+- [Estuary models/ARC Linkage PHE-Integrated Estuary Model-Water Quality.pdf](https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Documents/2.%20Characterising%20the%20Environment/Estuary%20models/ARC%20Linkage%20PHE-Integrated%20Estuary%20Model-Water%20Quality.pdf)
 - [Estuary sediment/ARC Linkage PHE-Sediment.pdf](https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Documents/2.%20Characterising%20the%20Environment/Estuary%20sediment/ARC%20Linkage%20PHE-Sediment.pdf)
 - [Nutrient isotopes/ARC Linkage PHE-Isotopes.pdf](https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Documents/2.%20Characterising%20the%20Environment/Nutrient%20isotopes/ARC%20Linkage%20PHE-Isotopes.pdf)
 
