@@ -1,4 +1,4 @@
-# # BOM Met   <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/bom.gif" align="right">
+## BOM Met   <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/bom.gif" align="right">
 
 Data archive for the Bureau of Meteorology's station data for sites around the Peel-Harvey Estuary.
 
@@ -70,3 +70,24 @@ with the following variables:
 ```
 
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/BOM.png">
+
+
+
+Further data can be requested directly from the <a href="http://www.bom.gov.au/">Bureau of Meteorology</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
