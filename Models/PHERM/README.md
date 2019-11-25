@@ -865,7 +865,7 @@ The key modes output variables are summarized in Table 1.
  </tr>
 </table>
 
-Table 1: Summary of the relevant variables resolved by the proposed GLM – and TUFLOW-FV – AED2 platform. Note some of the variables are optional and to be determined depending on the modules chosen within the AED2 water quality model.  
+**Table 1: Summary of the relevant variables resolved by the proposed GLM – and TUFLOW-FV – AED2 platform. Note some of the variables are optional and to be determined depending on the modules chosen within the AED2 water quality model.**  
 
 ### Documents & Links
 
