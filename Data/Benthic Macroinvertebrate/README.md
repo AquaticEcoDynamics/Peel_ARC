@@ -1,79 +1,85 @@
-## BOM Met   <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/bom.gif" align="right">
+## Benthic Macroinvertebrate  <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch.png" width="77.5" height="77.5" align="right">
 
-Data archive for the Bureau of Meteorology's station data for sites around the Peel-Harvey Estuary.
+Data archive for Murdoch University's Benthic Macroinvertebrate sampling in the Peel-Harvey Estuary.
 
 ---
 
-Data was requested at three sites at 3 hourly interval:
-
-- Mandurah Old (9887)
-- Mandurah New (9977)
-- Halls Head (9572)
-
-with the following variables:
+Data was collected at 119 sites around the Peel-Harvey Estuary in 2017, cataloguing 71 distinct species:
 
 ```
-- hm_QC
-- StationID
-- Date
-- Rain_9am
-- Rain_9am_QC
-- AirTemperature
-- AirTemperature_QC
-- WetBulbTemperature
-- WetBulbTemperature_QC
-- DewPoint
-- DewPoint_QC
-- RelativeHumidity
-- RelativeHumidity_QC
-- WindSpeed
-- WindSpeed_QC
-- WindDir
-- WindDir_QC
-- WindSpeedMax_10min
-- WindSpeeedMax_10min_QC
-- CloudAmount_First
-- CloudAmount_First_QC
-- CloudHeight_First
-- CloudHeight_First_QC
-- CloudAmount_Second
-- CloudAmount_Second_QC
-- CloudHeight_Second
-- CloudHeight_Second_QC
-- CloudAmount_Third
-- CloudAmount_Third_QC
-- CloudHeight_Third
-- CloudHeight_Third_QC
-- CloudAmount_Fourth
-- CloudAmount_Fourth_QC
-- CloudHeight_Fourth
-- CloudHeight_Fourth_QC
-- CeilometerCloudAmount_First
-- CeilometerCloudAmount_First_QC
-- CeilometerCloudHeight_First
-- CeilometerCloudHeight_First_QC
-- CeilometerCloudAmount_Second
-- CeilometerCloudAmount_Second_QC
-- CeilometerCloudHeight_Second
-- CeilometerCloudHeight_Second_QC
-- CeilometerCloudAmount_Third
-- CeilometerCloudAmount_Third_QC
-- CeilometerCloudHeight_Third
-- CeilometerCloudHeight_Third_QC
-- Ceilometer_QC
-- AirPressure_MSL
-- AirPressure_MSL_QC
-- AirPressure_Stn
-- AirPressure_Stn_QC
-- AWS_Flag_QC
-- LineEnd_QC
+- Ampharetinae Sp 1
+- Amphipoda spp
+- Ampithoe Sp 1
+- Actiniaria spp
+- Aoridae spp
+- Arcuatula senhousia
+- Arthritica semen
+- Assiminea Sp 1
+- Australonereis ehlersi
+- Bivalvia spp
+- Boccardiella limnicola
+- Boccardia chilensis
+- Brania Sp 1
+- Caenidae spp
+- Capitella Sp 1
+- Caprella scaura
+- Carazziella victoriensis
+- Caulleriella Sp 1
+- Chironomidae spp
+- Coleoptera spp
+- Copepoda spp
+- Corophium minor
+- Cronia Sp 1
+- Cumacea spp
+- Desdemona ornata
+- Diptera spp
+- Donax Sp 1
+- Eusiridae spp
+- Exogone heterosetosa
+- Galathowenia Sp 1
+- Glycera Sp 1
+- Grandidierella spp
+- Halicarcinus ovatus
+- Nasutoplax rostrata
+- Heteromastus filiformis
+- Scoloplos normalis
+- Magelona Sp 1
+- Malacoceros tripartitus
+- Marphysa sanguinea
+- Mediomastus Sp 1
+- Barnardomelita matilda
+- Micromaldane Sp 1
+- Mysella spp
+- Mysida spp
+- Nematoda spp
+- Nemertea spp
+- Nephtys
+- Simplisetia spp
+- Oedicerotidae Sp 1
+- Oligochaeta spp
+- Olividae Sp 1
+- Ophiurida spp
+- Palaemonetes australis
+- Paracorophium excavatum
+- Phoronis Sp 1
+- Plecoptera Sp 1
+- Polychaeta spp
+- Polychaeta Sp 2
+- Polydora socialis
+- Prionospio cirrifera
+- Prionospio multipinnulata
+- Pseudopolydora kempi
+- Hiatula biradiata
+- Serpulidae Sp 1
+- Sipuncula spp
+- Sphaeromatidae spp
+- Sphaerosyllis Sp 1
+- Spisula trigonella
+- Tanaidacea
+- Tanea Sp 1
+- Theora lubrica
 ```
 
-<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/BOM.png">
-
-
-
-Further data can be requested directly from the <a href="http://www.bom.gov.au/">Bureau of Meteorology</a>
 
 
 
