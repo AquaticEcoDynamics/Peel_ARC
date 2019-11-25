@@ -7,3 +7,9 @@ The final version, PHERM v11, was run for 16 selected years from 1979 to 2017, i
 
 Generally, the model parameter-set was common across all simulations. 
 The models output all variables across the domain at 2-hourly internals for each of the 16 annual simulations, and these were also used for nutrient budgeting at the estuary scale, and also in each ERZ. The resultant predictions were also used to develop simpler Estuary Response Functions (ERFs) to illustrate typical patterns of water quality response to flow and nutrient input in different areas of the system.
+
+
+<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Monthly.png">
+
+**Monthly water quality changes in the pre-Cut and post-Cut period from model output and monitoring data.**
+
