@@ -47,7 +47,7 @@ data.site.variable.Units
 ```
 
 | Contact           |Website|Email Address            |
-|------------------|-------------------------|
+|------------------|---------|----------------|
 |Water Information Reporting|http://wir.water.wa.gov.au/Pages/Water-Information-Reporting.aspx|wir@water.wa.gov.au|
 
 
