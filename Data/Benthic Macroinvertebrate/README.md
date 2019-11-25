@@ -6,6 +6,8 @@ Data archive for Murdoch University's Benthic Macroinvertebrate sampling in the 
 
 Data was collected at 60 sites around the Peel-Harvey Estuary in 2017, cataloguing 71 distinct species:
 
+Data has been removed upon request due to it's publication still pending.
+
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/ben1.jpg">
 
 
