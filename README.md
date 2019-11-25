@@ -12,6 +12,10 @@ This is the repository for relevant **data, models and documents** for the ARC L
 solutions that best optimise trade-offs between catchment development aspirations (hereafter ‘societal health’) and estuarine ecological integrity and ecosystem service delivery (together, ‘estuarine health’) in the face of a fast growing population and changing climate.*
 
 
+---
+
+
+
 **Chief & Partner Investigators**
 -	Dr Fiona Valesini - Murdoch Uni (CI)
 -	Assoc. Prof. Matt Hipsey – UWA (CI)
@@ -30,9 +34,48 @@ solutions that best optimise trade-offs between catchment development aspiration
 
 
 
+---
+
+
+
 ## Contents:
 
 - [Data](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Data)
 - [Models](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Models)
 - [Documents](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Documents)
-1
+
+
+
+---
+
+
+
+## Data
+
+Contained within this repository is data collected as part of the linkage program as well as 3rd party data collected in order to facilitate the modelling components.
+
+The data has been catalogued into the catagories:
+
+- Benthic Macroinvertebrate
+- BOM Met
+- Crab
+- Fish
+- Isotope
+- Land Use
+- Macrophyte
+- Nutrient
+- Phytoplankton
+- Sediment
+
+The Primary point of contact for the data repository is <a href="mailto:brendan.busch@uwa.edu.au">Brendan Busch</a>
+
+---
+
+## Models
+
+
+
+---
+
+## Documents
+
