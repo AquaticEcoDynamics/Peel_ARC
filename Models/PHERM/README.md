@@ -43,8 +43,827 @@ The sediment was separated into 24 zones based on their properties (sand/silt co
 
 The key modes output variables are summarized in Table 1.
 
-
-<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/variable_table_2.JPG">
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="67%"
+ style='width:67.54%;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;
+ mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="10%" valign=top style='width:10.42%;border:solid windowtext 1.0pt;
+  border-right:none;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:
+  solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;background:
+  black;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:6.0pt;color:white'>Variable<o:p></o:p></span></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border-top:solid windowtext 1.0pt;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  background:black;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:6.0pt;color:white'>Units *<o:p></o:p></span></b></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border-top:solid windowtext 1.0pt;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  background:black;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:6.0pt;color:white'>Common Name<o:p></o:p></span></b></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  black;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:6.0pt;color:white'>Process Description<i
+  style='mso-bidi-font-style:normal'><o:p></o:p></i></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width="100%" colspan=4 valign=top style='width:100.0%;border-top:none;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
+  242;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt;
+  color:black;mso-color-alt:windowtext'>Physical variables</span><span
+  style='font-size:6.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>T<o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>°C<o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Temperature<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Temperature
+  modelled by hydrodynamic model, subject to surface heating and cooling
+  processes <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>S</span></i></b><i
+  style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'><o:p></o:p></span></i></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span class=SpellE><span
+  style='font-size:6.0pt'>psu</span></span><span style='font-size:6.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Salinity<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Salinity
+  simulated by TUFLOW-FV, impacting density. Subject to inputs and <span
+  class=SpellE>evapo</span>-concentration<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><i style='mso-bidi-font-style:
+  normal'><span style='font-size:6.0pt'>EC<b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></i></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span class=SpellE><span
+  style='font-size:6.0pt'>uS</span></span><span style='font-size:6.0pt'> <span
+  class=GramE>cm<sup>-1</sup></span><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Electrical
+  conductivity<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Derived
+  from salinity variable<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>I<sub>PAR</sub><o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span class=SpellE><span
+  style='font-size:6.0pt'>mE</span></span><span style='font-size:6.0pt'> m<sup>-2</sup>
+  s<sup>-1</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Shortwave
+  light intensity<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Incident
+  light, I<sub>0</sub>, is attenuated as a function of depth<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>I<sub>UV</sub></span></i></b><i
+  style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'><o:p></o:p></span></i></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span class=SpellE><span
+  style='font-size:6.0pt'>mE</span></span><span style='font-size:6.0pt'> m<sup>-2</sup>
+  s<sup>-1</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Shortwave
+  light intensity<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Incident
+  light, I<sub>0</sub>, is attenuated as a function of depth<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><i style='mso-bidi-font-style:
+  normal'><span style='font-size:6.0pt;font-family:Symbol;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;mso-char-type:symbol;mso-symbol-font-family:
+  Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>h</span></span></i><i
+  style='mso-bidi-font-style:normal'><sub><span style='font-size:6.0pt'>PAR</span></sub></i><i
+  style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'><o:p></o:p></span></i></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>m<sup>-1</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>PAR
+  extinction coefficient<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Extinction
+  coefficient is computed based on organic matter and suspended solids <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><i style='mso-bidi-font-style:
+  normal'><span style='font-size:6.0pt;font-family:Symbol;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;mso-char-type:symbol;mso-symbol-font-family:
+  Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>h</span></span></i><i
+  style='mso-bidi-font-style:normal'><sub><span style='font-size:6.0pt'>UV</span></sub></i><b
+  style='mso-bidi-font-weight:normal'><i style='mso-bidi-font-style:normal'><span
+  style='font-size:6.0pt'><o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>m<sup>-1</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>UV
+  extinction coefficient<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Extinction
+  coefficient is computed based on organic matter and suspended solids <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9;height:9.05pt'>
+  <td width="100%" colspan=4 valign=top style='width:100.0%;border-top:none;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
+  242;padding:0cm 5.4pt 0cm 5.4pt;height:9.05pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt;
+  color:black;mso-color-alt:windowtext'>Core biogeochemical variables </span><span
+  style='font-size:6.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>DO<o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  O<sub>2</sub> m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Dissolved
+  oxygen<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Impacted
+  by photosynthesis, organic decomposition, nitrification, surface exchange, and
+  sediment oxygen demand<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span class=SpellE><b
+  style='mso-bidi-font-weight:normal'><i style='mso-bidi-font-style:normal'><span
+  style='font-size:6.0pt'>RSi</span></i></b></span><b style='mso-bidi-font-weight:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'><o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  Si m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Reactive
+  Silica<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Algal
+  uptake, sediment flux<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>FRP<o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  P m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Filterable
+  reactive phosphorus<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Algal
+  uptake, organic mineralization, sediment flux<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>PIP<o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  P m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Particulate
+  inorganic phosphorus<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span class=SpellE><span
+  style='font-size:6.0pt'>Adsoprtion</span></span><span style='font-size:6.0pt'>/desorption
+  of/to free FRP<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>NH<sub>4</sub><sup>+</sup><o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  N m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Ammonium<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Algal
+  uptake, nitrification, organic mineralization, sediment flux<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>NO<sub>3</sub><sup>-</sup><o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  N m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Nitrate<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Algal
+  uptake, nitrification, denitrification, sediment flux<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>CPOM<o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  C m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Coarse
+  particulate organic matter <o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Enzymatic
+  hydrolysis to POM<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>DOC-R<o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  C m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Refractory
+  DOC<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>DON-R<o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  C m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Refractory
+  DON<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>DOP-R<o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  C m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Refractory
+  DOP<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>DOC<o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  C m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Dissolved
+  organic carbon <o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Mineralization,
+  algal mortality/excretion<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>DON<o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  N m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Dissolved
+  organic nitrogen <o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span class=GramE><span
+  style='font-size:6.0pt'>Mineralization ,</span></span><span style='font-size:
+  6.0pt'> algal mortality/excretion <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>DOP<o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  P m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Dissolved
+  organic phosphorus <o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Mineralization,
+  algal mortality/excretion<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>POC<o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  C m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Particulate
+  organic carbon <o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Breakdown,
+  settling, algal mortality/excretion<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>PON<o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  N m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Particulate
+  organic nitrogen <o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Breakdown,
+  settling, algal mortality/excretion <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>POP<o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  P m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Particulate
+  organic phosphorus <o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Breakdown,
+  settling, algal mortality/excretion<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><i style='mso-bidi-font-style:
+  normal'><span style='font-size:6.0pt'>TP<b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></i></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  P m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Total
+  Phosphorus<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Sum
+  of all P state variables<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><i style='mso-bidi-font-style:
+  normal'><span style='font-size:6.0pt'>TN<b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></i></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  N m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Total
+  Nitrogen<sub><o:p></o:p></sub></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoCommentText><span style='font-size:6.0pt'>Sum of all N state
+  variables<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><i style='mso-bidi-font-style:
+  normal'><span style='font-size:6.0pt'>TKN<b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></i></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  N m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Total
+  <span class=SpellE>Kjedahl</span> Nitrogen<sub><o:p></o:p></sub></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoCommentText><span style='font-size:6.0pt'>Sum of all N state
+  variables<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><i style='mso-bidi-font-style:
+  normal'><span style='font-size:6.0pt'>CDOM<o:p></o:p></span></i></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  C m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span class=SpellE><span
+  style='font-size:6.0pt'>Chromophoric</span></span><span style='font-size:
+  6.0pt'> Dissolved Organic Matter<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoCommentText><span style='font-size:6.0pt'>Related from DOC-R and
+  DOC concentrations<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td width="100%" colspan=4 valign=top style='width:100.0%;border-top:none;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
+  242;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoCommentText><span style='font-size:6.0pt;color:black;mso-color-alt:
+  windowtext'>Plankton groups (optional)</span><span style='font-size:6.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>BGA<sup><o:p></o:p></sup></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  C m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Cyanobacteria
+  <o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoCommentText><b style='mso-bidi-font-weight:normal'><i
+  style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>GRN<o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  C m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Green<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoCommentText><b style='mso-bidi-font-weight:normal'><i
+  style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>DIA</span></i></b><i
+  style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'><o:p></o:p></span></i></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  C m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Diatom<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoCommentText><b style='mso-bidi-font-weight:normal'><i
+  style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>DINO<o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  C m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Dinoflagellate<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoCommentText><b style='mso-bidi-font-weight:normal'><i
+  style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>Crypt<o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  C m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span class=SpellE><span
+  style='font-size:6.0pt'>Cryptophytes</span></span><span style='font-size:
+  6.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoCommentText><i style='mso-bidi-font-style:normal'><span
+  style='font-size:6.0pt'>TCHLA<b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></i></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  C m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Total
+  Chlorophyll-a<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td width="100%" colspan=4 valign=top style='width:100.0%;border-top:none;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
+  242;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt;
+  color:black;mso-color-alt:windowtext'>Sediment and related properties</span><span
+  style='font-size:6.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoCommentText><b style='mso-bidi-font-weight:normal'><i
+  style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>SS<o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>g
+  SS m<sup>-3</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39'>
+  <td width="10%" valign=top style='width:10.42%;border:none;border-left:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoCommentText><i style='mso-bidi-font-style:normal'><span
+  style='font-size:6.0pt'>Turbidity<o:p></o:p></span></i></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>NTU<o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40'>
+  <td width="100%" colspan=4 valign=top style='width:100.0%;border-top:none;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
+  242;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt;
+  color:black;mso-color-alt:windowtext'>Benthic variables</span><span
+  style='font-size:6.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41;mso-yfti-lastrow:yes'>
+  <td width="10%" valign=top style='width:10.42%;border-top:none;border-left:
+  solid windowtext 1.0pt;border-bottom:solid windowtext 1.0pt;border-right:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoCommentText><b style='mso-bidi-font-weight:normal'><i
+  style='mso-bidi-font-style:normal'><span style='font-size:6.0pt'>MPB<o:p></o:p></span></i></b></p>
+  </td>
+  <td width="13%" valign=top style='width:13.14%;border:none;border-bottom:
+  solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>mmol
+  C m<sup>-2</sup><o:p></o:p></span></p>
+  </td>
+  <td width="34%" valign=top style='width:34.12%;border:none;border-bottom:
+  solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Benthic
+  algae<o:p></o:p></span></p>
+  </td>
+  <td width="42%" valign=top style='width:42.32%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:normal'><span style='font-size:6.0pt'>Benthic
+  photosynthesis &amp; respiration.<o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
 
 Table 1: Summary of the relevant variables resolved by the proposed GLM – and TUFLOW-FV – AED2 platform. Note some of the variables are optional and to be determined depending on the modules chosen within the AED2 water quality model.  
 
