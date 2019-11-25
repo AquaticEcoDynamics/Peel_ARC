@@ -17,6 +17,7 @@ The PHERM (Peel-Harvey Estuary Response Model) consists of a 3D hydrodynamic mod
 
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/pherm.png">
 
+**Figure 1. Diagram of PHERM coupling the hydrodynamic model TUFLOW-FV and water quality model AED2. Light yellow color indicates the modules being activated in the water quality model.** 
  
 
 
