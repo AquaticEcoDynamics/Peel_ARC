@@ -54,7 +54,7 @@ solutions that best optimise trade-offs between catchment development aspiration
 
 Contained within this repository is data collected as part of the linkage program as well as 3rd party data collected in order to facilitate the modelling components.
 
-The data has been catalogued into the catagories:
+The data has been catalogued into the following catagories:
 
 - Benthic Macroinvertebrate
 - BOM Met
@@ -67,15 +67,29 @@ The data has been catalogued into the catagories:
 - Phytoplankton
 - Sediment
 
-The Primary point of contact for the data repository is <a href="mailto:brendan.busch@uwa.edu.au">Brendan Busch</a>
+The Primary point of contact for the data repository is <a href="mailto:brendan.busch@uwa.edu.au">*Brendan Busch*</a>
 
 ---
 
 ## Models
 
+<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Scenario Pic.png">
+
+The models have been catalogued into two in groups:
+
+- Catchment
+- PHERM (**P**eel-**H**arvey **E**stuary **R**esponse **M**odel)
 
 
 ---
 
 ## Documents
+
+The Documents archive contains all of the publically available reports.
+
+
+
+---
+
+<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/UWACMYK.png" width="130" height="43" align="left"><img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch.png" width="77.5" height="77.5" align="right">
 
