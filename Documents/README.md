@@ -5,6 +5,7 @@
 ## Contents
 
 ### 1. Summary Report
+- [Catchment model/ARC Linkage PHE-Catchment model.pdf](https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Documents/2.%20Characterising%20the%20Environment/Catchment%20model/ARC%20Linkage%20PHE-Catchment%20model.pdf)
 
 ### 2.Characterising the Environment
 - [Catchment model/ARC Linkage PHE-Catchment model.pdf](https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Documents/2.%20Characterising%20the%20Environment/Catchment%20model/ARC%20Linkage%20PHE-Catchment%20model.pdf)
