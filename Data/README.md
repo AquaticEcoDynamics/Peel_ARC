@@ -19,6 +19,8 @@ The archive has been broken up into different catagories. Some of these archives
 
 Some of these archives are intentionally empty, as the data is still being published. Please contact the person / agency responsible for the data for more information. Their contact details are contained within the respective archives.
 
-# Summary plot of key hydrologic and nutrient data. The brown arrows indicate the time the Dawesville Cut was contructed
+## Example summary plot of key hydrologic and nutrient data
 
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/WaterQuality.png">
+
+Figure. Example summary plot of key hydrologic and nutrient data. The brown arrows indicate the time the Dawesville Cut was contructed. Other summary plots and analysis of data are available in the enclosed reports.
