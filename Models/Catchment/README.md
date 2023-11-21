@@ -1,2 +1,3 @@
-# Peel_ARC
-Public repository for the Peel ARC project
+# Catchment Model
+
+Public repository for the the Source (eWater®) catchment modelling platform
