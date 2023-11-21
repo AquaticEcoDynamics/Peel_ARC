@@ -74,3 +74,7 @@ with the following variables:
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/BOM.png">
 
 **Figure.** Example summary plot of weather data in 2009. Further data can be requested directly from the <a href="http://www.bom.gov.au/">Bureau of Meteorology</a>
+
+| Contact       | Email Address            |
+| ------------- | ------------------------ |
+| Brendan Busch | brendan.busch@uwa.edu.au |

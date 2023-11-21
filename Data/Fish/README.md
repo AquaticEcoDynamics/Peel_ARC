@@ -4,8 +4,8 @@ Data archive for Murdoch University's fish sampling between 2016 - 2018.
 
 ---
 
-Data availability is upon request due to it's publication still pending.
+Data is available upon request due to it's publication still pending.
 
-| Contact            | Email Address             |
-| ------------------ | ------------------------- |
-| Dr. Fiona Vasesili | F.Valesini@murdoch.edu.au |
+| Contact            | Email Address          |
+| ------------------ | ---------------------- |
+| Dr. Fiona Vasesili | fiona.valesini@TNC.ORG |

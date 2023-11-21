@@ -6,7 +6,7 @@ Data archive for Murdoch University's Benthic Macroinvertebrate sampling in the 
 
 Data was collected at 60 sites around the Peel-Harvey Estuary in 2017, cataloguing 71 distinct species:
 
-Data availability is upon request due to it's publication still pending.
+Data is available upon request due to it's publication still pending.
 
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/ben1.jpg">
 
@@ -84,8 +84,8 @@ Data availability is upon request due to it's publication still pending.
 - Theora lubrica
 ```
 
-| Contact            | Email Address             |
-| ------------------ | ------------------------- |
-| Dr. Fiona Vasesili | F.Valesini@murdoch.edu.au |
+| Contact            | Email Address          |
+| ------------------ | ---------------------- |
+| Dr. Fiona Vasesili | fiona.valesini@TNC.ORG |
 
 |
