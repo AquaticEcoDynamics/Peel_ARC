@@ -1,4 +1,4 @@
-## Benthic Macroinvertebrate  <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch.png" width="77.5" height="77.5" align="right">
+## Benthic Macroinvertebrate <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch.png" width="77.5" height="77.5" align="right">
 
 Data archive for Murdoch University's Benthic Macroinvertebrate sampling in the Peel-Harvey Estuary.
 
@@ -6,12 +6,9 @@ Data archive for Murdoch University's Benthic Macroinvertebrate sampling in the 
 
 Data was collected at 60 sites around the Peel-Harvey Estuary in 2017, cataloguing 71 distinct species:
 
-Data has been removed upon request due to it's publication still pending.
-
+Data availability is upon request due to it's publication still pending.
 
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/ben1.jpg">
-
-
 
 ```
 - Ampharetinae Sp 1
@@ -86,23 +83,9 @@ Data has been removed upon request due to it's publication still pending.
 - Tanea Sp 1
 - Theora lubrica
 ```
-| Contact           |Email Address            |
-|------------------|-------------------------|
-|Dr. Fiona Vasesili|F.Valesini@murdoch.edu.au|
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Contact            | Email Address             |
+| ------------------ | ------------------------- |
+| Dr. Fiona Vasesili | F.Valesini@murdoch.edu.au |
 
 |

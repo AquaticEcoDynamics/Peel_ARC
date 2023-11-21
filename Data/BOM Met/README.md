@@ -69,7 +69,7 @@ with the following variables:
 - LineEnd_QC
 ```
 
-## Example summary plot of weather data in 2009
+## Example summary plot of weather data
 
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/BOM.png">
 
