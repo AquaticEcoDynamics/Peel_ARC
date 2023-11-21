@@ -2,7 +2,7 @@
 
 The data archive consists of data collected by multiple organisations, across 100's of different sites, spanning 1970 to present.
 
-The archive has been broken up into different catagories:
+The archive has been broken up into different catagories. Some of these archives are intentionally empty, as the data is still being published. Please contact the person / agency responsible for the data for more information. Their contact details are contained within the respective archives.
 
 | Data Type                 | Organisation              | Time Period | Availability | Contact            |
 | ------------------------- | ------------------------- | ----------- | ------------ | ------------------ |
@@ -18,5 +18,7 @@ The archive has been broken up into different catagories:
 | Sediment                  | Murdoch University        | 2016        | on request   | Dr. Fiona Vasesili |
 
 Some of these archives are intentionally empty, as the data is still being published. Please contact the person / agency responsible for the data for more information. Their contact details are contained within the respective archives.
+
+# Summary plot of key hydrologic and nutrient data. The brown arrows indicate the time the Dawesville Cut was contructed
 
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/WaterQuality.png">
