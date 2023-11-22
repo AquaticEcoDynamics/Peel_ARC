@@ -17,8 +17,6 @@ The archive has been broken up into different catagories. Some of data are avail
 | Fish                      | Murdoch University        | 2016 - 2018 | on request   | Dr. Fiona Vasesili |
 | Sediment                  | Murdoch University        | 2016        | on request   | Dr. Fiona Vasesili |
 
-Some of these archives are intentionally empty, as the data is still being published. Please contact the person / agency responsible for the data for more information. Their contact details are contained within the respective archives.
-
 ## Example summary plot of key hydrologic and nutrient data
 
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/WaterQuality.png">
