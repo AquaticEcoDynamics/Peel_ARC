@@ -2,7 +2,7 @@
 
 ## Data & Model Repository
 
-This is the **data and models** repository for the ARC Linkage Project: **Balancing estuarine and societal health in a changing environment (LP150100451).**
+This is the **data and models** repository for the ARC Linkage Project: [**Balancing estuarine and societal health in a changing environment (LP150100451).**](https://aquaticecodynamics.github.io/peel-book/index.html)
 
 > 
 > The aim of this study is to produce a predictive decision support framework for helping identify land-planning
@@ -74,8 +74,8 @@ Detailed reports and summary of current linkage program is available in the onli
 
 
 
-_Valesini, F., Hipsey, M. R., Cronin O’Reilly, S., & Huang, P. (Eds.) (2023).Balancing estuarine and societal health in a changing environment: 
-A decision support framework for sustaining the Peel-Harvey estuary-catchment system in south-western Australia. The University of Western Australia. https://doi.org/10.26182/ymst-gz83. _
+>Valesini, F., Hipsey, M. R., Cronin O’Reilly, S., & Huang, P. (Eds.) (2023).Balancing estuarine and societal health in a changing environment: 
+A decision support framework for sustaining the Peel-Harvey estuary-catchment system in south-western Australia. The University of Western Australia. https://doi.org/10.26182/ymst-gz83. 
 
 ---
 
