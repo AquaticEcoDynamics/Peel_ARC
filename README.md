@@ -12,8 +12,8 @@ and estuarine ecological integrity and ecosystem service delivery (together, ‘
 ---
 
 **Chief & Partner Investigators**   
-	- Dr Fiona Valesini - Murdoch Uni (CI)   
-	- Assoc. Prof. Matt Hipsey – UWA (CI)   
+- Dr Fiona Valesini - Murdoch Uni (CI)   
+- Assoc. Prof. Matt Hipsey – UWA (CI)   
 	- Prof. Brad Eyre – Sthn Cross Uni. (CI)   
 	- Prof. Paul Plummer – UWA (CI)   
 	- Prof. Mike Elliott – Uni. Hull (PI)   
