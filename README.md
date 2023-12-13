@@ -1,4 +1,4 @@
-# ARC Linkage Project <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/ARC.jpeg" width="189" height="51.5" align="right">
+# ARC Linkage Project (LP150100451) <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/ARC.jpeg" width="189" height="51.5" align="right">
 
 ## Data & Model Repository
 
@@ -37,6 +37,7 @@ and estuarine ecological integrity and ecosystem service delivery (together, ‘
 
 ---
 
+<!-- 
 ## Data
 
 Contained within this repository is data collected as part of the linkage program as well as 3rd party data collected in order to facilitate the modelling components.
@@ -59,7 +60,7 @@ The Primary point of contact for the data repository is <a href="mailto:brendan.
 
 ## Models
 
-<!-- <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Link.png"> -->
+<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Link.png">
 
 Contained within this repository is model files developed during the linkage program, catalogued into two in groups:
 
@@ -67,6 +68,8 @@ Contained within this repository is model files developed during the linkage pro
 - PHERM (**P**eel-**H**arvey **E**stuary **R**esponse **M**odel): files for Peel-Harvey Estuary hydrology and water quality modelling
 
 ---
+ -->
+ 
 
 ## Documentation
 
