@@ -2,11 +2,9 @@
 
 ## Data & Model Repository
 
-This is the **data and models** repository for the ARC Linkage Project:
+This is the **data and models** repository for the ARC Linkage Project: **Balancing estuarine and societal health in a changing environment (LP150100451).**
 
-**Balancing estuarine and societal health in a changing environment (LP150100451).**
-
-> [!Research Aims]
+> 
 > The aim of this study is to produce a predictive decision support framework for helping identify land-planning
 solutions that best optimise trade-offs between catchment development aspirations (hereafter ‘societal health’) 
 and estuarine ecological integrity and ecosystem service delivery (together, ‘estuarine health’) in the face of a fast growing population and changing climate.
@@ -63,7 +61,7 @@ The Primary point of contact for the data repository is <a href="mailto:brendan.
 
 ## Models
 
-! <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Link.png">
+<!-- <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Link.png"> -->
 
 Contained within this repository is model files developed during the linkage program, catalogued into two in groups:
 
