@@ -6,9 +6,9 @@ Data archive for meteorological data for the Peel-Harvey Estuary, obtained from 
 
 Data was requested at 3 hourly interval, covering different periods from 1970 to 2017 due to the changes of station locations:
 
-- HC06D_Data_009572_1970-1985:  (site name: Halls Head)
-- HC06D_Data_009887_1987-2001: 1987 - 2001 (site name: Mandurah Old)
-- HC06D_Data_009977_2001-2017: 2001 - 2017 (site name: Mandurah New)
+- Meteorological_Data_009572_1970-1985:  (Site ID: 009572; Site Name: Halls Head)
+- Meteorological_Data_009887_1987-2001: 1987 - 2001 (Site ID: 009887; Site Name: Mandurah Old)
+- Meteorological_Data_009977_2001-2017: 2001 - 2017 (Site ID: 009977; Site Name: Mandurah New)
 
 ---
 
