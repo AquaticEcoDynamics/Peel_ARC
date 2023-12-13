@@ -6,8 +6,10 @@ This is the **data and models** repository for the ARC Linkage Project:
 
 **Balancing estuarine and societal health in a changing environment (LP150100451).**
 
-_The aim of this study is to produce a predictive decision support framework for helping identify land-planning
-solutions that best optimise trade-offs between catchment development aspirations (hereafter ‘societal health’) and estuarine ecological integrity and ecosystem service delivery (together, ‘estuarine health’) in the face of a fast growing population and changing climate._
+> [!Research Aims]
+> The aim of this study is to produce a predictive decision support framework for helping identify land-planning
+solutions that best optimise trade-offs between catchment development aspirations (hereafter ‘societal health’) 
+and estuarine ecological integrity and ecosystem service delivery (together, ‘estuarine health’) in the face of a fast growing population and changing climate.
 
 ---
 
