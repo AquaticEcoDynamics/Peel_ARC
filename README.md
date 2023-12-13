@@ -12,12 +12,12 @@ and estuarine ecological integrity and ecosystem service delivery (together, ‘
 ---
 
 **Chief & Partner Investigators**
-- Dr Fiona Valesini - Murdoch Uni (CI)
-- Assoc. Prof. Matt Hipsey – UWA (CI)
-- Prof. Brad Eyre – Sthn Cross Uni. (CI)
-- Prof. Paul Plummer – UWA (CI)
-- Prof. Mike Elliott – Uni. Hull (PI)
-- Dr Kieryn Kilminster – Dept Water (PI)
+	- Dr Fiona Valesini - Murdoch Uni (CI)
+	- Assoc. Prof. Matt Hipsey – UWA (CI)
+	- Prof. Brad Eyre – Sthn Cross Uni. (CI)
+	- Prof. Paul Plummer – UWA (CI)
+	- Prof. Mike Elliott – Uni. Hull (PI)
+	- Dr Kieryn Kilminster – Dept Water (PI)
 
 **Partner Organisations**
 - Dept Premier & Cabinet
@@ -30,10 +30,10 @@ and estuarine ecological integrity and ecosystem service delivery (together, ‘
 ---
 
 ## Contents:
-
-- [Data](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Data): data collected during the linkage program in order to facilitate the project
-- [Models](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Models): model files used in this project for the catchment and estuary models
-- [Images](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Images): images used in this repository for supporting the README files
+Contained within this repository is the data and model files for supporting the linkage program, catalogued into groups of:
+- [Data](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Data): contains data collected during the linkage program in order to facilitate the project
+- [Models](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Models): contains model files used in this project for the catchment and estuary models
+- [Images](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Images): contains images used in this repository for supporting the README files
 
 ---
 
@@ -73,7 +73,7 @@ Contained within this repository is model files developed during the linkage pro
 
 ## Documentation
 
-Detailed reports and summary of current linkage program is available in the online version of [Balancing estuarine and societal health in a changing environment](https://aquaticecodynamics.github.io/peel-book/index.html) book 
+Detailed reports and summary of current linkage program is available in the online book of [Balancing estuarine and societal health in a changing environment](https://aquaticecodynamics.github.io/peel-book/index.html).
 
 
 
