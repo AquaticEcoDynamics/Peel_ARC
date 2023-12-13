@@ -7,6 +7,7 @@ The data sets that supported ARC Linkage Project LP15010045 **Balancing estuarin
 This archive has been divided into different categories based on data type. Some data are available upon request, as either the data collected during the project is still being published, or the data was collected outside the project and is not publicly available. Please contact the listed person/agency for more information. Their contact details are contained within the respective archives..
 
 
+---
 
 | Data Type                 | Organisation              | Time Period | Availability | Contact            |
 | ------------------------- | ------------------------- | ----------- | ------------ | ------------------ |
