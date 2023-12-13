@@ -33,9 +33,9 @@ solutions that best optimise trade-offs between catchment development aspiration
 
 ## Contents:
 
-- [Data](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Data): data collected as part of the linkage program in order to facilitate the project;
-- [Models](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Models): model files used in this project for the catchment and estuary models;
-- [Images](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Images): images used in this repository for supporting the README files.
+- [Data](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Data): data collected during the linkage program in order to facilitate the project
+- [Models](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Models): model files used in this project for the catchment and estuary models
+- [Images](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Images): images used in this repository for supporting the README files
 
 ---
 
@@ -61,24 +61,23 @@ The Primary point of contact for the data repository is <a href="mailto:brendan.
 
 ## Models
 
-<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Link.png">
+! <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Link.png">
 
 The models have been catalogued into two in groups:
 
-- Catchment
-- PHERM (**P**eel-**H**arvey **E**stuary **R**esponse **M**odel)
+- Catchment: files for Peel-Harvey catchment modelling
+- PHERM (**P**eel-**H**arvey **E**stuary **R**esponse **M**odel): files for Peel-Harvey Estuary hydrology and water quality modelling
 
 ---
 
-## Documents
+## Documentation
 
-The Documents archive contains all of the publically available reports, catalogued into:
+Detailed reports and summary of current linkage program is available in the online version of [Balancing estuarine and societal health in a changing environment](https://aquaticecodynamics.github.io/peel-book/index.html) book 
 
-- Summary Report
-- Chracterising the Environment
-- Estuarine Ecological Health
-- Economic Health
-- Decision Support System & 2050 Scenarios
+
+
+_Valesini, F., Hipsey, M. R., Cronin O’Reilly, S., & Huang, P. (Eds.) (2023).Balancing estuarine and societal health in a changing environment: 
+A decision support framework for sustaining the Peel-Harvey estuary-catchment system in south-western Australia. The University of Western Australia. https://doi.org/10.26182/ymst-gz83. _
 
 ---
 
