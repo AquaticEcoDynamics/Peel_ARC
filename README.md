@@ -11,7 +11,7 @@ and estuarine ecological integrity and ecosystem service delivery (together, ‘
 
 ---
 
-- **Chief & Partner Investigators**   
+ **Chief & Partner Investigators**   
   - Dr Fiona Valesini - Murdoch Uni (CI)   
   - Assoc. Prof. Matt Hipsey – UWA (CI)   
   - Prof. Brad Eyre – Sthn Cross Uni. (CI)   
@@ -19,7 +19,7 @@ and estuarine ecological integrity and ecosystem service delivery (together, ‘
   - Prof. Mike Elliott – Uni. Hull (PI)   
   - Dr Kieryn Kilminster – Dept Water (PI)   
 
-- **Partner Organisations**
+ **Partner Organisations**
   - [Department of the Premier and Cabinet](https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet)
   - [Department of Water and Environmental Regulation](https://www.wa.gov.au/organisation/department-of-water-and-environmental-regulation)
   - [City of Mandurah](https://www.mandurah.wa.gov.au/)
