@@ -12,12 +12,14 @@ and estuarine ecological integrity and ecosystem service delivery (together, ‘
 ---
 
  **Chief & Partner Investigators**   
-  - Dr Fiona Valesini - Murdoch Uni (CI)   
-  - Assoc. Prof. Matt Hipsey – UWA (CI)   
-  - Prof. Brad Eyre – Sthn Cross Uni. (CI)   
-  - Prof. Paul Plummer – UWA (CI)   
-  - Prof. Mike Elliott – Uni. Hull (PI)   
-  - Dr Kieryn Kilminster – Dept Water (PI)   
+  - Dr. Fiona Valesini - The Nature Conservancy (CI)   
+  - Prof. Matt Hipsey – The University of Western Australia (CI)   
+  - Prof. Brad Eyre – Southern Cross University (CI)   
+  - Prof. Paul Plummer – The University of Western Australia (CI)   
+  - Prof. Mike Elliott – University of Hull (PI)   
+  - Dr. Kieryn Kilminster – Department of Water and Environmental Regulation (PI)   
+
+---
 
  **Partner Organisations**
   - [Department of the Premier and Cabinet](https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet)
