@@ -2,12 +2,14 @@
 
 ### Overview
 
-The data sets that supported ARC Linkage Project LP150100451 ***Balancing estuarine and societal health in a changing environment*** have been collected by multiple organisations across hundreds of different sites within the Peel-Harvey estuary or catchment, spanning 1970 to 2018.
+The datasets that supported ARC Linkage Project LP150100451 ***Balancing estuarine and societal health in a changing environment*** have been collected by multiple organisations across hundreds of different sites within the Peel-Harvey estuary or catchment, spanning 1970 to 2018.
 
-This archive has been divided into different categories based on data type. Some data are available upon request, as either the data collected during the project is still being published, or the data was collected outside the project and is not publicly available. Please contact the listed person/agency for more information. Their contact details are contained within the respective archives.
+This archive has been divided into different categories based on data type (**Table 1**). Some data are available upon request, as either the data collected during the project is still being published, or the data was collected outside the project and is not publicly available. Please contact the listed person/agency for more information. Their contact details are contained within the respective archives.
 
 
 ---
+
+**Table 1.** Summary of data information contained within this repository.
 
 | Data Type                 | Organisation              | Time Period | Availability | Contact            |
 | ------------------------- | ------------------------- | ----------- | ------------ | ------------------ |
