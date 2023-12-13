@@ -1,74 +1,31 @@
-## BOM Met <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/bom.gif" align="right">
+## Meteorology <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/bom.gif" align="right">
+
+### Overview
 
 Data archive for the Bureau of Meteorology's station data for sites around the Peel-Harvey Estuary.
 
----
-
 Data was requested at three sites at 3 hourly interval:
 
-- Mandurah Old (9887)
-- Mandurah New (9977)
-- Halls Head (9572)
+- Mandurah Old (9887): 1987 - 2001
+- Mandurah New (9977): 2001 - 2017
+- Halls Head (9572): 1970 - 1985
 
-with the following variables:
+---
+
+**Following variables are included in the datasets:**
 
 ```
-- hm_QC
 - StationID
-- Date
-- Rain_9am
-- Rain_9am_QC
-- AirTemperature
-- AirTemperature_QC
-- WetBulbTemperature
-- WetBulbTemperature_QC
-- DewPoint
-- DewPoint_QC
-- RelativeHumidity
-- RelativeHumidity_QC
-- WindSpeed
-- WindSpeed_QC
-- WindDir
-- WindDir_QC
-- WindSpeedMax_10min
-- WindSpeeedMax_10min_QC
-- CloudAmount_First
-- CloudAmount_First_QC
-- CloudHeight_First
-- CloudHeight_First_QC
-- CloudAmount_Second
-- CloudAmount_Second_QC
-- CloudHeight_Second
-- CloudHeight_Second_QC
-- CloudAmount_Third
-- CloudAmount_Third_QC
-- CloudHeight_Third
-- CloudHeight_Third_QC
-- CloudAmount_Fourth
-- CloudAmount_Fourth_QC
-- CloudHeight_Fourth
-- CloudHeight_Fourth_QC
-- CeilometerCloudAmount_First
-- CeilometerCloudAmount_First_QC
-- CeilometerCloudHeight_First
-- CeilometerCloudHeight_First_QC
-- CeilometerCloudAmount_Second
-- CeilometerCloudAmount_Second_QC
-- CeilometerCloudHeight_Second
-- CeilometerCloudHeight_Second_QC
-- CeilometerCloudAmount_Third
-- CeilometerCloudAmount_Third_QC
-- CeilometerCloudHeight_Third
-- CeilometerCloudHeight_Third_QC
-- Ceilometer_QC
-- AirPressure_MSL
-- AirPressure_MSL_QC
-- AirPressure_Stn
-- AirPressure_Stn_QC
-- AWS_Flag_QC
-- LineEnd_QC
-```
+- Date and Time
+- Precipitation
+- Relative Humidity
+- Wind Speed
+- Wind Direction
+- Total Cloud
+- Air Pressure
 
+```
+<!--
 ## Example summary plot of weather data
 
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/BOM.png">
@@ -78,3 +35,5 @@ with the following variables:
 | Contact       | Email Address            |
 | ------------- | ------------------------ |
 | Brendan Busch | brendan.busch@uwa.edu.au |
+
+-->
