@@ -14,7 +14,7 @@ Data was requested at 3 hourly interval, covering different periods from 1970 to
 
 **Following variables are included in the datasets:**
 
-- StationID
+- Station ID
 - Date and Time
 - Precipitation
 - Relative Humidity
