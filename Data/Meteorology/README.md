@@ -2,7 +2,7 @@
 
 ### Overview
 
-Data archive for the Bureau of Meteorology's station data for the Peel-Harvey Estuary.
+Data archive for meteorological data for the Peel-Harvey Estuary, obtained from the Bureau of Meteorology.  
 
 Data was requested at 3 hourly interval, covering different periods from 1970 to 2017 due to the changes of station locations:
 
