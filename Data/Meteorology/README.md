@@ -2,19 +2,18 @@
 
 ### Overview
 
-Data archive for the Bureau of Meteorology's station data for sites around the Peel-Harvey Estuary.
+Data archive for the Bureau of Meteorology's station data for the Peel-Harvey Estuary.
 
-Data was requested at three sites at 3 hourly interval:
+Data was requested at 3 hourly interval, covering different periods from 1970 to 2017 due to the changes of station locations:
 
-- Mandurah Old (9887): 1987 - 2001
-- Mandurah New (9977): 2001 - 2017
-- Halls Head (9572): 1970 - 1985
+- HC06D_Data_009572_1970-1985:  (site name: Halls Head)
+- HC06D_Data_009887_1987-2001: 1987 - 2001 (site name: Mandurah Old)
+- HC06D_Data_009977_2001-2017: 2001 - 2017 (site name: Mandurah New)
 
 ---
 
 **Following variables are included in the datasets:**
 
-```
 - StationID
 - Date and Time
 - Precipitation
@@ -24,7 +23,7 @@ Data was requested at three sites at 3 hourly interval:
 - Total Cloud
 - Air Pressure
 
-```
+
 <!--
 ## Example summary plot of weather data
 
