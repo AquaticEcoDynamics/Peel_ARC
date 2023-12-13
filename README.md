@@ -19,13 +19,13 @@ and estuarine ecological integrity and ecosystem service delivery (together, ‘
   - Prof. Mike Elliott – Uni. Hull (PI)   
   - Dr Kieryn Kilminster – Dept Water (PI)   
 
-**Partner Organisations**
-- Dept Premier & Cabinet
-- Dept Water
-- City of Mandurah
-- Shire of Murray
-- Peel-Harvey Catchment Council
-- University of Hull
+- **Partner Organisations**
+  - [Department of the Premier and Cabinet](https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet)
+  - [Department of Water and Environmental Regulation](https://www.wa.gov.au/organisation/department-of-water-and-environmental-regulation)
+  - [City of Mandurah](https://www.mandurah.wa.gov.au/)
+  - [Shire of Murray](https://www.murray.wa.gov.au/)
+  - [Peel-Harvey Catchment Council](https://peel-harvey.org.au/)
+  - [University of Hull](https://www.hull.ac.uk/)
 
 ---
 
