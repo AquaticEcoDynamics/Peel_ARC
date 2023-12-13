@@ -6,12 +6,14 @@ The data sets that supported ARC Linkage Project LP15010045 **Balancing estuarin
 
 This archive has been divided into different categories based on data type. Some data are available upon request, as either the data collected during the project is still being published, or the data was collected outside the project and is not publicly available. Please contact the listed person/agency for more information. Their contact details are contained within the respective archives..
 
+
+
 | Data Type                 | Organisation              | Time Period | Availability | Contact            |
 | ------------------------- | ------------------------- | ----------- | ------------ | ------------------ |
 | Meteorology               | Bureau Of Meteorology     | 1970 - 2018 | Included     | Brendan Busch      |
 | Isotope                   | Southern Cross University | 2017 - 2018 | Included     | Brendan Busch      |
-| Land Use                  | Department of Water and Environmental Regulation & Murdoch University                      | N/A         | Included     | Karl Hennig        |
-| Nutrient                  | Murdoch University        | 1970 - 2001 | Included     | Brendan Busch      |
+| Land Use                  | Department of Water and Environmental Regulation | N/A         | Included     | Karl Hennig        |
+| Nutrient                  | Department of Water and Environmental Regulation & Murdoch University        | 1970 - 2001 | Included     | Brendan Busch      |
 | Phytoplankton             | Department of Water and Environmental Regulation                      | 2008        | Included     | Brendan Busch      |
 | Seagrass and Macroalgae                | Murdoch University        | 1978 - 2018 | On request   | Dr. James Tweedley |
 | Benthic Macroinvertebrate | Murdoch University        | 2017 - 2018 | On request   | Dr. James Tweedley |
