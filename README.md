@@ -1,8 +1,8 @@
 # ARC Linkage Project <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/ARC.jpeg" width="189" height="51.5" align="right">
 
-## Data, Model & Document Repository
+## Data & Model Repository
 
-This is the repository for relevant **data, models and documents** for the ARC Linkage Project:
+This is the **data and models** repository for the ARC Linkage Project:
 
 **Balancing estuarine and societal health in a changing environment (LP150100451).**
 
@@ -33,9 +33,9 @@ solutions that best optimise trade-offs between catchment development aspiration
 
 ## Contents:
 
-- [Data](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Data)
-- [Models](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Models)
-- [Documents](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Documents)
+- [Data](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Data): data collected as part of the linkage program in order to facilitate the project;
+- [Models](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Models): model files used in this project for the catchment and estuary models;
+- [Images](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Images): images used in this repository for supporting the README files.
 
 ---
 
