@@ -25,10 +25,11 @@ Data was requested at 3 hourly interval, covering different periods from 1970 to
 
 ---
 
-<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/met-station.png" width="406.5" height="539.5" style="border: 2px solid  gray;">
 
 <p align="center">
-  
+  <kbd>
+    <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/met-station.png" width="406.5" height="539.5" style="border: 2px solid  gray;">
+  </kbd>
 </p>
 
 **Figure.** Site map of weather stations, denoted by the ringed-cross symbols.
