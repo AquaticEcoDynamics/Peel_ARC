@@ -9,9 +9,9 @@ Data archive for phytoplankton data, collected from the Department of Water and 
 The phytoplankton dataset was collated from the Department of Water and Environmental Regulation to support the water quality research and modelling of 
 the Peel-Harvey Estuary system. The dataset includes grab sample results in year 2008, including:
 
--- Phytoplankton groups
--- Nutrient 
--- Physical profiles
--- Chlorophylls
--- Secchi depths
+- Phytoplankton groups
+- Nutrient 
+- Physical profiles
+- Chlorophylls
+- Secchi depths
 
