@@ -23,6 +23,7 @@ community as determined by the Estuarine Benthic Community index devised during 
   </kbd>
 </p>
 
-**Figure.** Map of the sites at which benthic macroinvertebrates were sampled across the Peel-Harvey Estuary in winter 2017 and summer 2018. Sites have been colour-coded by their RAP sediment condition class (green, Good; yellow, Fair; red, Poor).
 
-
+<p align="center">
+  <strong>Figure.</strong> Map of the sites at which benthic macroinvertebrates were sampled across the Peel-Harvey Estuary in winter 2017 and summer 2018. Sites have been colour-coded by their RAP sediment condition class (green, Good; yellow, Fair; red, Poor).
+</p>
