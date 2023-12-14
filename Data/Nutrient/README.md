@@ -35,7 +35,8 @@ The data is contained within a Matlab formatted **.mat** file and only contains 
 
 
 <p align="center">
-  <strong>Figure.</strong> Map of sites at which nutrients were sampled (red circles) in the Peel-Harvey Estuary.  
+  <strong>Figure.</strong> Map of sites at which nutrients were sampled (red circles) in the Peel-Harvey Estuary. Whilst the square symboles indicate the sampling sites of biological survey by Murdoch University (MU),
+  diamond symbols indicate the sampling sites of isotope samling. Color bands indicate the water depths, and red polygons indicate the regions for model and field data analysis. 
 </p>
 
 <!--
