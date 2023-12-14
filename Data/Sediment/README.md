@@ -21,6 +21,7 @@ presented in [Hallett et al. (2019)](https://doi.org/10.1039/C9EM00141G).
 <p align="center">
   <kbd>
     <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/sed2.jpg" width="645" height="812.25" align="center">
+	**Figure.** Map of the sites at which sediments were sampled (black circles) in the Peel-Harvey Estuary in 2016.
   </kbd>
 </p>
 
