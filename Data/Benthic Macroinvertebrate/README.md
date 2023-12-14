@@ -1,8 +1,9 @@
 ## Benthic macroinvertebrates <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch-new.png" width="180" height="100" align="right">
 
-### Overview
-
 Data archive for Murdoch University's benthic macroinvertebrate sampling in the Peel-Harvey Estuary.
+
+---
+### Overview
 
 Data on the benthic macroinvertebrate community was derived from sediment cores collected at 60 sites throughout the Peel-Harvey Estuary in winter 2017 and summer 2018 (see map below).
 
