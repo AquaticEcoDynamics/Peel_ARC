@@ -1,8 +1,11 @@
-# Nutrient Data
+## Nutrient  <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch-new.png" width="180" height="100" align="right"> <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/dwer.png" align="right">
+
+Data archive for the nutrient data collected from the Marine and Freshwater Laboratory (MARFL) and Department of Water and Environmental Regulation.
 
 ---
+### Overview
 
-## MAFRL <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch.png" width="77.5" height="77.5" align="right">
+1. MAFRL <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch.png" width="77.5" height="77.5" align="right">
 
 Weekly data collected by the Marine and Freshwater Laboratory out of Murdoch University between 1970 and 2001, at 6 sites within the Peel-Harvey Estuary.
 
