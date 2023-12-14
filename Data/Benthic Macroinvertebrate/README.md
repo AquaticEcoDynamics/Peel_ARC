@@ -1,4 +1,4 @@
-## Benthic macroinvertebrates <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch-new.png" width="177.5" height="77.5" align="right">
+## Benthic macroinvertebrates <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch-new.png" width="180" height="100" align="right">
 
 ### Overview
 
@@ -11,17 +11,18 @@ Rapid Assessment Protocol [RAP] sediment condition class ([Hallett et al., 2019]
 feeding group and bioturbation type ([Queirós et al., 2013](https://doi.org/10.1002/ece3.769)), and (iii) the score and corresponding ecological health grade (‘A’, excellent to ‘E’ very poor) for the benthic macroinvertebrate 
 community as determined by the Estuarine Benthic Community index devised during this ARC Linkage Project.
 
-Data is available upon request.
+> [!NOTE]
+> Data is available upon request.
 
 ---
 
 **Figure.** Map of the sites at which benthic macroinvertebrates were sampled across the Peel-Harvey Estuary in winter 2017 and summer 2018. Sites have been colour-coded by their RAP sediment condition class (green, Good; yellow, Fair; red, Poor).
 
-<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/ben1.jpg">
+<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/ben1.jpg" width="800" height="830" align="center">
 
 
 | Contact            | Email Address          |
 | ------------------ | ---------------------- |
 | Dr. Sorcha Cronin-O’Reilly | [sorcha.cronin-o’reilly@murdoch.edu.au](mailto:sorcha.cronin-o’reilly@murdoch.edu.au) |
 
-|
+
