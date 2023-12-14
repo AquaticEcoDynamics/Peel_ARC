@@ -29,5 +29,5 @@ sampling gear used in different studies.
   </kbd>
 </p>
 
-**Figure.** Map of the sites Sites at which fish communities were sampled throughout the Peel-Harvey Estuary during the current study (2016-18) and historical studies (1978-2014)..
+**Figure.** Map of the sites Sites at which fish communities were sampled throughout the Peel-Harvey Estuary during the current study (2016-2018) and historical studies (1978-2014)..
 
