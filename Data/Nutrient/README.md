@@ -6,17 +6,17 @@ Data archive for the nutrient data collected from the Marine and Freshwater Labo
 ---
 ### Overview
 
-Data on the nutrients were collected from the Marine and Freshwater Laboratory (MARFL, data courtesy: ) and Department of Water and Environmental Regulation (through the 
+Data on the nutrients were collected from the Marine and Freshwater Laboratory (MARFL, data courtesy: Murdoch University) and Department of Water and Environmental Regulation (through the 
 [Water Information Reporting](https://wir.water.wa.gov.au/Pages/Water-Information-Reporting.aspx) website) at multiple sites throughout the Peel-Harvey Estuary in 1970 - 2018 (see map below).
 
 
-#### 1. data from Marine and Freshwater Laboratory (MARFL)
+#### 1. data from Marine and Freshwater Laboratory ("MAFRL Data 1977 - 2001.xlsx"): 1977 - 2001
 
-Weekly data collected by the Marine and Freshwater Laboratory obetween 1970 and 2001, at 6 sites within the Peel-Harvey Estuary.
+Weekly data collected by the Marine and Freshwater Laboratory between 1977 and 2001, at 6 sites within the Peel-Harvey Estuary.
 
-#### 2. data from Department of Water and Environmental Regulation (DWER)
+#### 2. data from Department of Water and Environmental Regulation ("WIR Data 2001 - 2018.mat"): 2001 - 2018
 
-The WIR data has been collated from the [Water Information Reporting system](https://wir.water.wa.gov.au/Pages/Water-Information-Reporting.aspx), maintained by the Department of Water and Environmental Regulation.
+The WIR data between 2001 and 2018 has been collated from the [Water Information Reporting system](https://wir.water.wa.gov.au/Pages/Water-Information-Reporting.aspx), maintained by the Department of Water and Environmental Regulation.
 
 The data is contained within a Matlab formatted **.mat** file and only contains a subset of sites and variables of the nutrient & flow data that has been collected within the catchment to support the linkage program.
 
