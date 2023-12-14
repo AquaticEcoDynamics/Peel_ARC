@@ -1,11 +1,12 @@
-## Nutrient  <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch-new.png" width="180" height="100" align="right"> <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/dwer.png" align="right">
+## Nutrient  <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/dwer.png" align="right"> <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch-new.png" width="180" height="100" align="right"> 
 
+<p></p>
 Data archive for the nutrient data collected from the Marine and Freshwater Laboratory (MARFL) and Department of Water and Environmental Regulation.
 
 ---
 ### Overview
 
-1. MAFRL <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch.png" width="77.5" height="77.5" align="right">
+1. data from the Marine and Freshwater Laboratory (MARFL) 
 
 Weekly data collected by the Marine and Freshwater Laboratory out of Murdoch University between 1970 and 2001, at 6 sites within the Peel-Harvey Estuary.
 
@@ -34,7 +35,7 @@ Weekly data collected by the Marine and Freshwater Laboratory out of Murdoch Uni
 
 ---
 
-## WIR
+1. data from the Water Information Reporting (WIR, DWER)
 
 The WIR data has been collated from the Water Information Reporting system maintained by the Department of Water and Environmental Regulation <a href="http://wir.water.wa.gov.au/Pages/Water-Information-Reporting.aspx">(DWER)</a>.
 
