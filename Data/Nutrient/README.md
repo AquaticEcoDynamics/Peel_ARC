@@ -25,18 +25,6 @@ The data is contained within a Matlab formatted **.mat** file and only contains 
 > 
 
 
-Once loaded into Matlab the data contains the structure:
-
-```
-data.site.variable.X
-data.site.variable.Y
-data.site.variable.Data
-data.site.variable.Date
-data.site.variable.Depth
-data.site.variable.Title
-data.site.variable.Units
-```
-
 ---
 
 <p align="center">
