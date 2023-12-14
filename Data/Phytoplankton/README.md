@@ -1,9 +1,17 @@
 ## Phytoplankton <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/dwer.png" align="right">
 
-Data archive for the DWER's phytoplankton dataset (2008).
+Data archive for phytoplankton data, collected from the Department of Water and Environmental Regulation for the Peel-Harvey Estuary in 2008.
 
 ---
 
-| Contact       | Email Address            |
-| ------------- | ------------------------ |
-| Brendan Busch | brendan.busch@uwa.edu.au |
+### Overview
+
+The phytoplankton dataset was collated from the Department of Water and Environmental Regulation to support the water quality research and modelling of 
+the Peel-Harvey Estuary system. The dataset includes grab sample results in year 2008, including:
+
+-- Phytoplankton groups
+-- Nutrient 
+-- Physical profiles
+-- Chlorophylls
+-- Secchi depths
+
