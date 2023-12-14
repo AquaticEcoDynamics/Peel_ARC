@@ -9,7 +9,7 @@ This archive has been divided into different categories based on data type (**Ta
 
 ---
 
-**Table 1.** Summary of data information contained within this repository.
+**Table 1.** Summary of data resources and availabilty.
 
 | Data Type                 | Organisation              | Time Period | Availability | Contact            |
 | ------------------------- | ------------------------- | ----------- | ------------ | ------------------ |
