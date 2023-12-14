@@ -26,5 +26,9 @@ each sampling occasion includes the average biomass of each macrophyte group, ty
   </kbd>
 </p>
 
-**Figure.** Map of the sites at which the submerged macrophyte community was sampled throughout the Peel-Harvey Estuary in various years from 
+
+
+<p align="center">
+  <strong>Figure.</strong> Map of the sites at which the submerged macrophyte community was sampled throughout the Peel-Harvey Estuary in various years from 
 1978 to 2018 (red circles=shallow sites <1.3 m deep; blue crosses=deeper sites >1.3 m deep). Additional sites sampled only in 2017-18 are Pe1, Pe2, Ha1, Ha2, Ha3 and Ha4 ([Krumholz, 2019](https://researchportal.murdoch.edu.au/esploro/outputs/graduate/Macrophyte-communities-in-the-Peel-Harvey-Estuary/991005543545007891)).
+</p>
