@@ -1,7 +1,17 @@
-# Models
+## Models <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/aed.png" align="right">  <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/dwer.png" align="right"> 
+
+Archive for catchment model and estuary model developed for the linkage program.
 
 ---
 
+### Overview
+
+Contained within this repository is model files developed during the linkage program, catalogued into two groups:
+
+- Catchment: files for Peel-Harvey catchment modelling
+- PHERM (**P**eel-**H**arvey **E**stuary **R**esponse **M**odel): files for Peel-Harvey Estuary hydrology and water quality modelling
+
+<!--
 ## Catchment Model
 
 Constructing a model for a particular catchment management situation involves selecting appropriate component models and linking them in the software (including rainfall-runoff models, nutrient export and filtering models, streamflow routing models etc.). We used the Source (eWater®) modelling platform as it is becoming a national standard for catchment modelling and is at the core of the National Hydrological Modelling Platform program (Welsh et al., 2011). Source is based on the following building blocks:
@@ -29,3 +39,5 @@ The PHERM (Peel-Harvey Estuary Response Model) consists of a 3D hydrodynamic mod
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/pherm.png">
 
 **Figure 2. Diagram of PHERM coupling the hydrodynamic model TUFLOW-FV and water quality model AED2. Light yellow color indicates the modules being activated in the water quality model.**
+
+-->
