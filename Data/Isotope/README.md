@@ -13,7 +13,7 @@ into creeks, drains and rivers), but not the nitrogen fertilisers and livestock 
 
 The location of all sampling points is shown in the map below, with most being sampled in both summer (February–March 2017) and winter (July–August 2017). 
 In addition to the above sampling of sources and receiving waters, high-resolution temporal sampling (24 h continuous measurements) 
-of different forms of nitrogen were carried out at two estuary locations (Figure 5.2) in winter 2017 to assess how tides impacted their distributions. 
+of different forms of nitrogen were carried out at two estuary locations (see site map below) in winter 2017 to assess how tides impacted their distributions. 
 
 
 ---
