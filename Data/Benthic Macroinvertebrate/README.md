@@ -12,17 +12,13 @@ feeding group and bioturbation type ([Queirós et al., 2013](https://doi.org/10.
 community as determined by the Estuarine Benthic Community index devised during this ARC Linkage Project.
 
 > [!NOTE]
-> Data is available upon request.
+> Data is available upon request. Data contact:  [Dr. Sorcha Cronin-O’Reilly](mailto:sorcha.cronin-o’reilly@murdoch.edu.au)
 
 ---
 
 **Figure.** Map of the sites at which benthic macroinvertebrates were sampled across the Peel-Harvey Estuary in winter 2017 and summer 2018. Sites have been colour-coded by their RAP sediment condition class (green, Good; yellow, Fair; red, Poor).
 <p align="center">
-<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/ben1.jpg" width="600" height="622.5" align="center">
+  <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/ben1.jpg" width="600" height="622.5" align="center">
 </p>
-
-| Contact            | Email Address          |
-| ------------------ | ---------------------- |
-| Dr. Sorcha Cronin-O’Reilly | [sorcha.cronin-o’reilly@murdoch.edu.au](mailto:sorcha.cronin-o’reilly@murdoch.edu.au) |
 
 
