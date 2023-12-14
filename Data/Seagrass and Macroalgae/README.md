@@ -16,7 +16,7 @@ sampled in 2017-18 (see map below). Macrophytes were sampled in various months i
 each sampling occasion includes the average biomass of each macrophyte group, typically derived from five replicate core samples.
 
 > [!NOTE]
-> Data is available upon request. Data contact:  [Dr. James Tweedley](mailto:j.tweedley@murdoch.edu.au) (2017-2018 data); and [Mr. Krzysztof Wienczugow](mailto:k.wienczugow@murdoch.edu.au) (1978-2009 data)
+> Data is available upon request. Data contact: [Dr. James Tweedley](mailto:j.tweedley@murdoch.edu.au) (2017-2018 data); and [Mr. Krzysztof Wienczugow](mailto:k.wienczugow@murdoch.edu.au) (1978-2009 data)
 
 ---
 

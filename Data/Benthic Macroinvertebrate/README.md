@@ -13,7 +13,7 @@ feeding group and bioturbation type ([Queirós et al., 2013](https://doi.org/10.
 community as determined by the Estuarine Benthic Community index devised during this ARC Linkage Project.
 
 > [!NOTE]
-> Data is available upon request. Data contact:  [Dr. Sorcha Cronin-O’Reilly](mailto:sorcha.cronin-o’reilly@murdoch.edu.au)
+> Data is available upon request. Data contact: [Dr. Sorcha Cronin-O’Reilly](mailto:sorcha.cronin-o’reilly@murdoch.edu.au)
 
 ---
 
