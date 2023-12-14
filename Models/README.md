@@ -1,4 +1,4 @@
-## Models <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/aed.png" align="right">  <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/dwer.png" align="right"> 
+## Models <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/aed.png" width="35.6" height="14.1"  align="right">  <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/dwer.png" align="right"> 
 
 Archive for catchment model and estuary model developed for the linkage program.
 
