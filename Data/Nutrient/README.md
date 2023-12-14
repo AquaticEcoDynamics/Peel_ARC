@@ -10,14 +10,11 @@ Data on the nutrients were collected from the Marine and Freshwater Laboratory (
 [Water Information Reporting](https://wir.water.wa.gov.au/Pages/Water-Information-Reporting.aspx) website) at multiple sites throughout the Peel-Harvey Estuary in 1970 - 2018 (see map below).
 
 
-**1. data from Marine and Freshwater Laboratory (MARFL) **
+#### 1. data from Marine and Freshwater Laboratory (MARFL)
 
 Weekly data collected by the Marine and Freshwater Laboratory obetween 1970 and 2001, at 6 sites within the Peel-Harvey Estuary.
 
-
----
-
-**2. data from [Water Information Reporting](https://wir.water.wa.gov.au/Pages/Water-Information-Reporting.aspx) (WIR, DWER)**
+#### 2. data from [Water Information Reporting](https://wir.water.wa.gov.au/Pages/Water-Information-Reporting.aspx) (WIR, DWER)
 
 The WIR data has been collated from the Water Information Reporting system, maintained by the Department of Water and Environmental Regulation.
 
