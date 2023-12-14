@@ -4,11 +4,11 @@
 
 Data archive for meteorological data for the Peel-Harvey Estuary, obtained from the Bureau of Meteorology.  
 
-Data was requested at 3 hourly interval, covering different periods from 1970 to 2017 due to the changes of station locations:
+Data was requested at 3 hourly interval, covering different periods from 1970 to 2017 due to the changes of station locations (see site map below):
 
 - Meteorological_Data_009572_1970-1985:  (Site ID: 009572; Site Name: Halls Head)
-- Meteorological_Data_009887_1987-2001: 1987 - 2001 (Site ID: 009887; Site Name: Mandurah Old)
-- Meteorological_Data_009977_2001-2017: 2001 - 2017 (Site ID: 009977; Site Name: Mandurah New)
+- Meteorological_Data_009887_1987-2001: 1987 - 2001 (Site ID: 009887; Site Name: Mandurah)
+- Meteorological_Data_009977_2001-2017: 2001 - 2017 (Site ID: 009977; Site Name: Mandurah)
 
 ---
 
@@ -22,6 +22,14 @@ Data was requested at 3 hourly interval, covering different periods from 1970 to
 - Wind Direction
 - Total Cloud
 - Air Pressure
+
+---
+
+<p align="center">
+  <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/met-station.png" width="406.5" height="539.5" align="center">
+</p>
+
+**Figure.** Site map of weather stations, denoted by the ringed-cross symbols.
 
 
 <!--
