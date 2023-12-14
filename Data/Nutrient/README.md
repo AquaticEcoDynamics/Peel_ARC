@@ -14,11 +14,16 @@ Data on the nutrients were collected from the Marine and Freshwater Laboratory (
 
 Weekly data collected by the Marine and Freshwater Laboratory obetween 1970 and 2001, at 6 sites within the Peel-Harvey Estuary.
 
-#### 2. data from [Water Information Reporting](https://wir.water.wa.gov.au/Pages/Water-Information-Reporting.aspx) (WIR, DWER)
+#### 2. data from Department of Water and Environmental Regulation (DWER)
 
-The WIR data has been collated from the Water Information Reporting system, maintained by the Department of Water and Environmental Regulation.
+The WIR data has been collated from the [Water Information Reporting system](https://wir.water.wa.gov.au/Pages/Water-Information-Reporting.aspx), maintained by the Department of Water and Environmental Regulation.
 
 The data is contained within a Matlab formatted **.mat** file and only contains a subset of sites and variables of the nutrient & flow data that has been collected within the catchment to support the linkage program.
+
+> [!TIP]
+> Once loaded into Matlab the data contains the structure of ***data.{site}.{variable}***, with properties of site coordinates(X,Y), date, depth, and units
+> 
+
 
 Once loaded into Matlab the data contains the structure:
 
