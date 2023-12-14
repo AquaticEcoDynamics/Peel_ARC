@@ -11,7 +11,7 @@ the Peel-Harvey Estuary system. The dataset includes grab sample results at mult
 
 - Phytoplankton groups
 - Nutrient 
-- Physical profiles
+- Physical(conductivty, temperature, DO, pH) profiles
 - Chlorophylls
 - Secchi depths
 
