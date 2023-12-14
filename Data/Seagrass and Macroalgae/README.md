@@ -4,6 +4,8 @@ Data archive for Murdoch University's seagrass and macroalgae sampling throughou
 
 ---
 
+### Overview
+
 Sampling of the seagrass and macroalgae communities (collectively ‘submerged macrophyte’ communities) was undertaken at 51 sites in both shallow waters (<1.3 m deep) and 
 deeper waters (>1.3 m deep) throughout the Peel-Harvey Estuary in spring 2017 and autumn 2018 (see map below). Data available at each site on each sampling occasion includes
  the average biomass (g m-2, dry weight) of each macrophyte species present, derived from five replicate core samples.
@@ -17,8 +19,6 @@ each sampling occasion includes the average biomass of each macrophyte group, ty
 > Data is available upon request. Data contact:  [Dr. James Tweedley](mailto:j.tweedley@murdoch.edu.au) (2017-2018 data); and [Mr. Krzysztof Wienczugow](mailto:k.wienczugow@murdoch.edu.au) (1978-2009 data)
 
 ---
-
-<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/seagrass1.jpg">
 
 <p align="center">
   <kbd>

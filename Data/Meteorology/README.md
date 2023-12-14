@@ -1,8 +1,9 @@
 ## Meteorology <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/bom.gif" align="right">
 
-### Overview
-
 Data archive for meteorological data for the Peel-Harvey Estuary, obtained from the Bureau of Meteorology.  
+
+---
+### Overview
 
 Data was requested at 3 hourly interval, covering different periods from 1970 to 2017 due to the changes of station locations (see site map below):
 

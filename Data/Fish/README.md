@@ -2,6 +2,9 @@
 
 Data archive for Murdoch University's fish sampling between 2016 - 2018.
 
+---
+### Overview
+
 Data on the fish communities was collected at 32 sites in the shallows (<1.5 m deep) and 21 sites in the deeper waters (>1.5 m deep) throughout the Peel-Harvey Estuary 
 in each season from autumn 2016 to summer 2018 (see map below). 
 
