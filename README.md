@@ -75,7 +75,7 @@ Contained within this repository is model files developed during the linkage pro
 
 ## Documentation
 
-Detailed reports and summary of current linkage program is available in the online book of [Balancing estuarine and societal health in a changing environment](https://aquaticecodynamics.github.io/peel-book/index.html).
+Detailed reports and summary of this linkage program is available in the online book of [Balancing estuarine and societal health in a changing environment](https://aquaticecodynamics.github.io/peel-book/index.html).
 
 
 
