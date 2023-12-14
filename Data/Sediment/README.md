@@ -24,7 +24,7 @@ presented in [Hallett et al. (2019)](https://doi.org/10.1039/C9EM00141G).
   </kbd>
 </p>
 
-**Figure.** Map of the sites at which sediments were sampled (black circles) in the Peel-Harvey Estuary in 2016.
+<p style="text-align: center;">**Figure.** Map of the sites at which sediments were sampled (black circles) in the Peel-Harvey Estuary in 2016.</p>
 
 
 <!--
