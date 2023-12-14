@@ -11,7 +11,7 @@ A wide-scale sediment collection program was undertaken across 97 sites througho
 Data collected for each sediment core includes geographic location, water depth, sediment penetration depth, sediment depth of the oxic layer, total nitrogen (%TN) 
 and carbon (%TC) content, organic carbon content (%OC), nitrogen and carbon isotopes (d15N and d13C), particle size fractions (gravel, sand, silt, clay), 
 and both sediment condition scores (for odour, colour, and texture) and health classes (good, fair, poor) according to the Rapid Assessment Protocol (RAP) 
-presented in [Hallett et al. (2019)](https://doi.org/10.1039/C9EM00141G)).
+presented in [Hallett et al. (2019)](https://doi.org/10.1039/C9EM00141G).
 
 > [!NOTE]
 > Data is available upon request. Data contact: [Dr. James Tweedley](mailto:j.tweedley@murdoch.edu.au)
