@@ -5,7 +5,7 @@ Data archive for Southern Cross Univeristy isotope sampling in the Peel-Harvey E
 ---
 ### Overview
 
-We collected samples from both receiving waters (defined as surface waters in the catchment and estuary) and N and P sources 
+Samples were collected from both receiving waters (defined as surface waters in the catchment and estuary) and N and P sources 
 (defined as soils, fertilisers, and the non-surface waters that could directly flow to the surface water). 
 This sampling design enabled us to build a biogeochemical understanding onto the known hydrologic flow paths linking ‘sources’ 
 and ‘receiving waters’ and avoid extraneous or duplicate sampling. For instance, we sampled soil water (which could directly leach 
