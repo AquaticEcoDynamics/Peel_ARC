@@ -8,8 +8,8 @@ Archive for catchment and estuary model files developed for the linkage program.
 
 Contained within this repository is model files developed during the linkage program, catalogued into two groups:
 
-- **Catchment:** files for Peel-Harvey catchment modelling
-- **PHERM** (**P**eel-**H**arvey **E**stuary **R**esponse **M**odel): files for Peel-Harvey Estuary hydrology and water quality modelling
+- **Catchment:** repository for Peel-Harvey catchment modelling files
+- **PHERM** (**P**eel-**H**arvey **E**stuary **R**esponse **M**odel): repository for Peel-Harvey Estuary hydrology and water quality modelling files
 
 <!--
 ## Catchment Model
