@@ -13,13 +13,13 @@ This archive has been divided into different categories based on data type (**Ta
 
 | Data Type                 | Organisation              | Time Period | Availability | Contact            |
 | ------------------------- | ------------------------- | ----------- | ------------ | ------------------ |
-| Meteorology               | Bureau Of Meteorology     | 1970 - 2018 | Included     | [Brendan Busch](mailto:brendan.busch@uwa.edu.au)      |
-| Isotope                   | Southern Cross University | 2017 - 2018 | Included     | [Brendan Busch](mailto:brendan.busch@uwa.edu.au)      |
-| Land Use                  | Department of Water and Environmental Regulation | N/A         | Included     | [Karl Hennig](mailto:Karl.Hennig@water.wa.gov.au)  |
-| Nutrient                  | Department of Water and Environmental Regulation & Murdoch University        | 1970 - 2001 | Included     | [Brendan Busch](mailto:brendan.busch@uwa.edu.au)     |
-| Phytoplankton             | Department of Water and Environmental Regulation                      | 2008        | Included     | [Brendan Busch](mailto:brendan.busch@uwa.edu.au)     |
+| Meteorology               | Bureau Of Meteorology     | 1970 - 2018 | Included     | [Mr. Brendan Busch](mailto:brendan.busch@uwa.edu.au)      |
+| Isotope                   | Southern Cross University | 2017 - 2018 | Included     | [Mr. Brendan Busch](mailto:brendan.busch@uwa.edu.au)      |
+| Land Use                  | Department of Water and Environmental Regulation | N/A         | Included     | [Mr. Karl Hennig](mailto:Karl.Hennig@water.wa.gov.au)  |
+| Nutrient                  | Department of Water and Environmental Regulation & Murdoch University        | 1970 - 2001 | Included     | [Mr. Brendan Busch](mailto:brendan.busch@uwa.edu.au)     |
+| Phytoplankton             | Department of Water and Environmental Regulation                      | 2008        | Included     | [Mr. Brendan Busch](mailto:brendan.busch@uwa.edu.au)     |
 | Seagrass and Macroalgae                | Murdoch University        | 1978 - 2018 | On request   | [Dr. James Tweedley](mailto:j.tweedley@murdoch.edu.au) |
-| Benthic Macroinvertebrate | Murdoch University        | 2017 - 2018 | On request   | [Dr. Sorcha Cronin-O’Reilly](mailto:sorcha.cronin-o’reilly@murdoch.edu.au) |
+| Benthic Macroinvertebrate | Murdoch University        | 2017 - 2018 | On request   | [Dr. James Tweedley](mailto:j.tweedley@murdoch.edu.au) |
 | Fish                      | Murdoch University        | 2016 - 2018 | On request   | [Dr. James Tweedley](mailto:j.tweedley@murdoch.edu.au) |
 | Sediment                  | Murdoch University        | 2016        | On request   | [Dr. James Tweedley](mailto:j.tweedley@murdoch.edu.au) |
 
