@@ -30,7 +30,7 @@ Under each category, the model files are organized into types of:
 
 Details of the model introduction, set up, and research outcomes are available from the online book of [Balancing estuarine and societal health in a changing environment](https://aquaticecodynamics.github.io/peel-book/index.html). 
 > Huang et al., (2023) Chapter 3: The Changing Hydrology of the Peel-Harvey Estuary: Past, Present and Future. In: Valesini, F., Hipsey, M. R., Cronin O’Reilly, S., & Huang, P. (Eds.) (2023). Balancing estuarine and societal health in a changing environment: A decision support framework for sustaining the Peel-Harvey estuary-catchment system in south-western Australia. The University of Western Australia. https://doi.org/10.26182/ymst-gz83.
-> and:
+and:
 > Huang et al., (2023) Chapter 4: Integrated Modelling Assessment of Nutrient Cycling and Water Quality in the Peel-Harvey Estuary. In: Valesini, F., Hipsey, M. R., Cronin O’Reilly, S., & Huang, P. (Eds.) (2023). Balancing estuarine and societal health in a changing environment: A decision support framework for sustaining the Peel-Harvey estuary-catchment system in south-western Australia. The University of Western Australia. https://doi.org/10.26182/ymst-gz83.
 
 
