@@ -64,7 +64,7 @@ The Primary point of contact for the data repository is <a href="mailto:brendan.
 
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Link.png">
 
-Contained within this repository is model files developed during the linkage program, catalogued into two in groups:
+Contained within this repository is model files developed during the linkage program, catalogued into two groups:
 
 - Catchment: files for Peel-Harvey catchment modelling
 - PHERM (**P**eel-**H**arvey **E**stuary **R**esponse **M**odel): files for Peel-Harvey Estuary hydrology and water quality modelling
