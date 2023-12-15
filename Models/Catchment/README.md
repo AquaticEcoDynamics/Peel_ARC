@@ -2,16 +2,16 @@
 
 Public repository for the the Source (eWater®) catchment modelling results for Peel-Harvey Catchment
 
+> [!NOTE]
+> This catchment management scenario modelling results are included in this repository. Other data and model files are available upon request. Data contact: [Mr. Karl Hennig](mailto:Karl.Hennig@water.wa.gov.au)
+
+
 ---
 
 ### Overview
 
 The Source (eWater®) modelling platform was used to develop hydrological and nutrient models for the catchment of the Peel-Harvey Estuary. These models allow the nutrient export delivered 
 to the estuary to be estimated and the major sources of these nutrients to be identified. This allows management actions to be targeted where they will have the most capacity to reduce nutrient export. 
-
-> [!NOTE]
-> This catchment management scenario modelling results are included in this repository. Other data and model files are available upon request. Data contact: [Mr. Karl Hennig](mailto:Karl.Hennig@water.wa.gov.au)
-
 
 Details of the model introduction, set up, and research outcomes are available from the online book of [Balancing estuarine and societal health in a changing environment](https://aquaticecodynamics.github.io/peel-book/index.html). 
 > Hennig et al., (2023) Chapter 2: Modelling of the Peel-Harvey Catchment. In: Valesini, F., Hipsey, M. R., Cronin O’Reilly, S., & Huang, P. (Eds.) (2023). Balancing estuarine and societal health in a changing environment: A decision support framework for sustaining the Peel-Harvey estuary-catchment system in south-western Australia. The University of Western Australia. https://doi.org/10.26182/ymst-gz83.
