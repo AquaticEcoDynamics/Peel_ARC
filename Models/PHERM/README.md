@@ -1,4 +1,4 @@
-## Peel-Harvey Estuary Response Model (PHERM)   <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/aed.png" align="right"> 
+## Peel-Harvey Estuary Response Model (PHERM)   <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/aed.png"  width="142.4" height="56.4"  align="right"> 
 
 Public repository for the the coupled TUFLOW-fv and AED estuary modelling files for Peel-Harvey Estuary
 
