@@ -11,6 +11,14 @@ and estuarine ecological integrity and ecosystem service delivery (together, ‘
 
 ---
 
+## Contents:
+Contained within this repository are the data and model files for supporting the linkage program, catalogued into groups of:
+- [Data](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Data): contains data collected during the linkage program or provided by 3rd party in order to facilitate the project
+- [Models](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Models): contains configuration and forcing files for the catchment and estuary models
+- [Images](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Images): contains images used in this repository for supporting the README files
+
+---
+
  **Chief & Partner Investigators**   
   - Dr. Fiona Valesini - The Nature Conservancy (CI)   
   - Prof. Matt Hipsey – The University of Western Australia (CI)   
@@ -28,14 +36,6 @@ and estuarine ecological integrity and ecosystem service delivery (together, ‘
   - [Shire of Murray](https://www.murray.wa.gov.au/)
   - [Peel-Harvey Catchment Council](https://peel-harvey.org.au/)
   - [University of Hull](https://www.hull.ac.uk/)
-
----
-
-## Contents:
-Contained within this repository are the data and model files for supporting the linkage program, catalogued into groups of:
-- [Data](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Data): contains data collected during the linkage program or provided by 3rd party in order to facilitate the project
-- [Models](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Models): contains configuration and forcing files for the catchment and estuary models
-- [Images](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Images): contains images used in this repository for supporting the README files
 
 ---
 
