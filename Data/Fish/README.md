@@ -8,7 +8,7 @@ Data archive for Murdoch University's fish sampling between 2016 - 2018.
 Data on the fish communities was collected at 32 sites in the shallows (<1.5 m deep) and 21 sites in the deeper waters (>1.5 m deep) throughout the Peel-Harvey Estuary 
 in each season from autumn 2016 to summer 2018 (see map below). 
 
-Data available for each replicate sample collected at each site on each sampling occasion includes (i) the abundance of each fish species, expressed as number of fish per 100 m2 
+Data available for each replicate sample collected at each site on each sampling occasion includes (i) the abundance of each fish species, expressed as number of fish per 100 m<sup>2</sup> 
 for samples collected in the shallows using a seine net, and number of fish caught per hour for samples collected in the deeper waters using gill nets; (ii) the functional guild allocations 
 for each species, reflecting their habitat, feeding mode and use of the estuary (as per [Hallett et al., 2012](https://doi.org/10.1016/j.ecolind.2011.07.002)), and; (iii) the individual metric scores, total metric score and overall ecological 
 health grade (‘A’, excellent to ‘E’ very poor) for the Fish Community Index devised during this ARC Linkage Project.
