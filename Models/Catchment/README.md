@@ -3,7 +3,7 @@
 Public repository for the the Source (eWater®) catchment modelling results for Peel-Harvey Catchment
 
 > [!NOTE]
-> This catchment management scenario modelling results are included in this repository. Other data and model files are available upon request. Data contact: [Mr. Karl Hennig](mailto:Karl.Hennig@water.wa.gov.au)
+> The catchment management scenario modelling results are included in this repository. Other data and model files are available upon request. Data contact: [Mr. Karl Hennig](mailto:Karl.Hennig@water.wa.gov.au)
 
 
 ---
