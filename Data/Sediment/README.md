@@ -9,7 +9,7 @@ A wide-scale sediment collection program was undertaken across 97 sites througho
  (Peel Inlet and Harvey Estuary) and 35 sites across the estuarine reaches of the Serpentine and Murray rivers (see Fig. 1).
  
 Data collected for each sediment core includes geographic location, water depth, sediment penetration depth, sediment depth of the oxic layer, total nitrogen (%TN) 
-and carbon (%TC) content, organic carbon content (%OC), nitrogen and carbon isotopes (d15N and d13C), particle size fractions (gravel, sand, silt, clay), 
+and carbon (%TC) content, organic carbon content (%OC), nitrogen and carbon isotopes (d^1^5N and d^1^3C), particle size fractions (gravel, sand, silt, clay), 
 and sediment condition scores (for odour, colour, and texture) and health classes (good, fair, poor) according to the Rapid Assessment Protocol (RAP) 
 presented in [Hallett et al. (2019)](https://doi.org/10.1039/C9EM00141G).
 
