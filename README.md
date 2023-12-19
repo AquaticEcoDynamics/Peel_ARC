@@ -1,13 +1,17 @@
-# ARC Linkage Project (LP150100451) <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/ARC.jpeg" width="189" height="51.5" align="right">
-
+# ARC Linkage Project (LP150100451) 
+<!-- 
+<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/ARC.jpeg" width="189" height="51.5" align="right">
+ -->
+ 
 ## Data & Model Repository
 
-This is the **data and models** repository for the ARC Linkage Project: [**Balancing estuarine and societal health in a changing environment (LP150100451).**](https://aquaticecodynamics.github.io/peel-book/index.html)
+This is the **data and models** repository for the Australian Research Council (ARC) Linkage Project LP150100451, [**Balancing estuarine and societal health in a changing environment**](https://aquaticecodynamics.github.io/peel-book/index.html).
 
 > 
-> The aim of this study is to produce a predictive decision support framework for helping identify land-planning
-solutions that best optimise trade-offs between catchment development aspirations (hereafter ‘societal health’) 
-and estuarine ecological integrity and ecosystem service delivery (together, ‘estuarine health’) in the face of a fast growing population and changing climate.
+> The aim of this study was to produce an integrated decision support framework for helping optimise trade-offs between regional catchment development drivers (‘economic resilience’) 
+and the heath of the receiving estuarine waterways (‘environmental and ecological resilience’), both now and under 2050 development and climate scenarios.
+>This study was undertaken within the Peel-Harvey catchment-estuary system in south-western Australia from 2016-2019.
+
 
 ---
 
