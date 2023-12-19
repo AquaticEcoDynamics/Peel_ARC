@@ -20,10 +20,8 @@ and the heath of the receiving estuarine waterways (‘environmental and ecologi
 Contained within this repository are the data and model files that supported the Linkage Project, catalogued as follows:
 - [Data](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Data): Contains or describes data collected during the Project or provided by third parties in order to facilitate the Project.
 - [Models](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Models): Contains configuration and forcing files for the catchment and estuary models developed during the Project.
+- [Images](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Images): Contains logos and site maps used in this repository.
 
-<!--
-- [Images](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Images): contains images used in this repository for supporting the README files
--->
 ---
 
  **Chief & Partner Investigators**   
