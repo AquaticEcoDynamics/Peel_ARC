@@ -1,17 +1,17 @@
 ## Phytoplankton <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/dwer.png" align="right">
 
-Data archive for phytoplankton data collected from the Department of Water and Environmental Regulation for the Peel-Harvey Estuary in 2008.
+Data archive for phytoplankton data collected by the Department of Water and Environmental Regulation (DWER) in the Peel-Harvey Estuary in 2008.
 
 ---
 
 ### Overview
 
-The phytoplankton dataset was collated from the Department of Water and Environmental Regulation to support the water quality research and modelling of 
-the Peel-Harvey Estuary system. The dataset includes phytoplankton results and its environmental conditions at multiple regions of the Peel-Harvey Estuary (including the main tributaries) in year 2008, including:
+Data on the concentrations of various groups of phytoplankton were collected by the DWER at various sites throughout the Peel-Harvey Estuary in 2008. 
+Measurements of the corresponding nutrient and physical conditions were also recorded. The collated data set comprises:
 
-- Phytoplankton groups
-- Nutrient 
-- Physical(conductivty, temperature, DO, pH) profiles
+- Concentrations (cells/mL) of each phytoplankton group
+- Concentrations of various nitrogen and phosphorous species at the surface and bottom of the water column
+- Corresponding physical profiles (e.g. conductivity, temperature, DO, pH, Secchi depths) 
 - Chlorophylls
-- Secchi depths
+- Concentration of chlorophylls a, b and c and Phaeophyta
 
