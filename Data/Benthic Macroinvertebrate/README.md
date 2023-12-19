@@ -5,7 +5,7 @@ Data archive for Murdoch University's benthic macroinvertebrate sampling in the 
 ---
 ### Overview
 
-Data on the benthic macroinvertebrate community was derived from sediment cores collected at 60 sites throughout the Peel-Harvey Estuary in winter 2017 and summer 2018 (see map below).
+Data on the benthic macroinvertebrate community was derived from sediment cores collected at 60 sites throughout the Peel-Harvey Estuary in winter 2017 and summer 2018 (see Fig. 1 below).
 
 Data available at each site on each sampling occasion includes (i) sediment core information (geographic location, water depth, sediment penetration depth, sediment depth of the oxic layer and 
 Rapid Assessment Protocol [RAP] sediment condition class ([Hallett et al., 2019](https://doi.org/10.1039/C9EM00141G))); (ii) the density of each macroinvertebrate species and their associated taxonomic classification, 
@@ -27,5 +27,5 @@ community as determined by the Estuarine Benthic Community index devised during 
 
 
 <p align="center">
-  <strong>Figure.</strong> Map of the sites at which benthic macroinvertebrates were sampled across the Peel-Harvey Estuary in winter 2017 and summer 2018. Sites have been colour-coded by their RAP sediment condition class (green, Good; yellow, Fair; red, Poor).
+  <strong>Figure 1.</strong> Map of the sites at which benthic macroinvertebrates were sampled across the Peel-Harvey Estuary in winter 2017 and summer 2018. Sites have been colour-coded by their RAP sediment condition class (green, Good; yellow, Fair; red, Poor).
 </p>
