@@ -17,15 +17,15 @@ and the heath of the receiving estuarine waterways (‘environmental and ecologi
 ---
 
 ## Contents:
-Contained within this repository are the data and model files for supporting the linkage program, catalogued into groups of:
-- [Data](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Data): contains data collected during the linkage program or provided by 3rd party in order to facilitate the project
-- [Models](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Models): contains configuration and forcing files for the catchment and estuary models
+Contained within this repository are the data and model files that supported the Linkage Project, catalogued as follows:
+- [Data](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Data): Contains or describes data collected during the Project or provided by third parties in order to facilitate the Project.
+- [Models](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Models): Contains configuration and forcing files for the catchment and estuary models developed during the Project.
 - [Images](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Images): contains images used in this repository for supporting the README files
 
 ---
 
  **Chief & Partner Investigators**   
-  - Dr. Fiona Valesini - The Nature Conservancy (CI)   
+  - Dr. Fiona Valesini - Murdoch University (CI)   
   - Prof. Matt Hipsey – The University of Western Australia (CI)   
   - Prof. Brad Eyre – Southern Cross University (CI)   
   - Prof. Paul Plummer – The University of Western Australia (CI)   
@@ -80,13 +80,16 @@ Contained within this repository is model files developed during the linkage pro
 
 ## Documentation
 
-Detailed reports and summary of this linkage program is available in the online book of [Balancing estuarine and societal health in a changing environment](https://aquaticecodynamics.github.io/peel-book/index.html).
-
-
+A summary of this Linkage Project and its component studies is available in the following online book:
 
 >Valesini, F., Hipsey, M. R., Cronin O’Reilly, S., & Huang, P. (Eds.) (2023).Balancing estuarine and societal health in a changing environment: 
-A decision support framework for sustaining the Peel-Harvey estuary-catchment system in south-western Australia. The University of Western Australia. https://doi.org/10.26182/ymst-gz83. 
+A decision support framework for sustaining the Peel-Harvey estuary-catchment system in south-western Australia. The University of Western Australia. 
+>
+>Book Link:(https://aquaticecodynamics.github.io/peel-book/index.html
 
+<!--
+ https://doi.org/10.26182/ymst-gz83. 
 ---
 
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/UWACMYK.png" width="130" height="43" align="left"><img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch.png" width="77.5" height="77.5" align="right">
+ -->
