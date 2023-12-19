@@ -1,24 +1,23 @@
 ## Nutrient  <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/dwer.png" align="right"> <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch-new.png" width="180" height="100" align="right"> 
 
 <p></p>
-Data archive for the nutrient data collected from the Marine and Freshwater Laboratory (MARFL) and Department of Water and Environmental Regulation.
+Data archive for the nutrient concentration data collected by the Marine and Freshwater Laboratory (MARFL) at Murdoch University and the Department of Water and Environmental Regulation (DWER).
 
 ---
 ### Overview
 
-Data on the nutrients were collected from the Marine and Freshwater Laboratory (MARFL, data courtesy: Murdoch University) and Department of Water and Environmental Regulation (through the 
-[Water Information Reporting System](https://wir.water.wa.gov.au/Pages/Water-Information-Reporting.aspx)) at multiple sites throughout the Peel-Harvey Estuary in 1970 - 2018 (see map below).
+Data on the nutrient concentrations within the water column were collected at multiple sites throughout the Peel-Harvey Estuary from 1970-2018, as outlined below and shown in Fig. 1.
 
 
-#### 1. data from Marine and Freshwater Laboratory ("MAFRL Data 1977 - 2001.xlsx"): 1977 - 2001
+#### 1. 1977 - 2001; Data collected by the Marine and Freshwater Laboratory ("MAFRL Data 1977 - 2001.xlsx"): 
 
-Weekly data collected by the Marine and Freshwater Laboratory between 1977 and 2001, at 6 sites within the Peel-Harvey Estuary.
+Weekly data on the concentrations of various nitrogen and phosphorous species were recorded by MAFRL at the surface and bottom of the water column at 6 sites within the Peel-Harvey Estuary between 1977 and 2001 (Fig. 1).
 
-#### 2. data from Department of Water and Environmental Regulation ("WIR Data 2001 - 2018.mat"): 2001 - 2018
+#### 2. 2001 - 2018; Data collected by the DWER ("WIR Data 2001 - 2018.mat"): 
 
-The WIR data between 2001 and 2018 has been collated from the [Water Information Reporting system](https://wir.water.wa.gov.au/Pages/Water-Information-Reporting.aspx), maintained by the Department of Water and Environmental Regulation.
+Nutrient concentration data recorded at monitoring sites throughout the estuary between 2001 and 2018 (Fig. 1) by the DWER has been collated from their [Water Information Reporting system](https://wir.water.wa.gov.au/Pages/Water-Information-Reporting.aspx).
 
-The data is contained within a Matlab formatted **.mat** file and only contains a subset of sites and variables of the nutrient & flow data that has been collected within the catchment to support the linkage program.
+The data is contained within a Matlab formatted **.mat** file and only contains a subset of sites and variables of the available nutrient and flow data that are relevant to this project.
 
 > [!TIP]
 > Once loaded into Matlab the data contains the structure of ***data.{site}.{variable}***, with properties of site coordinates(X,Y), date, depth, and units
@@ -35,8 +34,8 @@ The data is contained within a Matlab formatted **.mat** file and only contains 
 
 
 <p align="center">
-  <strong>Figure.</strong> Map of sites at which nutrients were sampled (red circles) in the Peel-Harvey Estuary. Whilst the square symboles indicate the sampling sites of biological survey by Murdoch University (MU),
-  diamond symbols indicate the sampling sites of isotope samling. Color bands indicate the water depths, and red polygons indicate the regions for model and field data analysis. 
+  <strong>Figure 1.</strong> Map of sites at which nutrients were sampled (red circles) in the Peel-Harvey Estuary. Whilst the square symbols indicate the sampling sites of biological survey by Murdoch University (MU),
+  diamond symbols indicate the sampling sites of isotope sampling. Colour bands indicate the water depths, and red polygons indicate the regions for model and field data analysis. 
 </p>
 
 <!--
