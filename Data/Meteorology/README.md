@@ -12,7 +12,7 @@ Data was requested from the BoM at 3 hourly intervals from 1970 to 2017 from the
 - Meteorological_Data_009977_2001-2017: 2001 - 2017 (Site ID: 009977; Site Name: Mandurah)
 
 
-**The following meteorological variables are included in the datasets:**
+The following meteorological variables are included in the datasets:
 
 - Station ID
 - Date and Time
