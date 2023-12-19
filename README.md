@@ -20,8 +20,10 @@ and the heath of the receiving estuarine waterways (‘environmental and ecologi
 Contained within this repository are the data and model files that supported the Linkage Project, catalogued as follows:
 - [Data](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Data): Contains or describes data collected during the Project or provided by third parties in order to facilitate the Project.
 - [Models](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Models): Contains configuration and forcing files for the catchment and estuary models developed during the Project.
-- [Images](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Images): contains images used in this repository for supporting the README files
 
+<!--
+- [Images](https://github.com/AquaticEcoDynamics/Peel_ARC/tree/master/Images): contains images used in this repository for supporting the README files
+-->
 ---
 
  **Chief & Partner Investigators**   
@@ -85,7 +87,7 @@ A summary of this Linkage Project and its component studies is available in the 
 >Valesini, F., Hipsey, M. R., Cronin O’Reilly, S., & Huang, P. (Eds.) (2023).Balancing estuarine and societal health in a changing environment: 
 A decision support framework for sustaining the Peel-Harvey estuary-catchment system in south-western Australia. The University of Western Australia. 
 >
->Book Link:(https://aquaticecodynamics.github.io/peel-book/index.html
+>Book Link: https://aquaticecodynamics.github.io/peel-book/index.html
 
 <!--
  https://doi.org/10.26182/ymst-gz83. 
