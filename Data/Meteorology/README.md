@@ -1,19 +1,18 @@
 ## Meteorology <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/bom.gif" align="right">
 
-Data archive for meteorological data for the Peel-Harvey Estuary, obtained from the Bureau of Meteorology.  
+Data archive for meteorological data for the Peel-Harvey region, obtained from the Bureau of Meteorology (BoM).  
 
 ---
 ### Overview
 
-Data was requested at 3 hourly interval, covering different periods from 1970 to 2017 due to the changes of station locations (see site map below):
+Data was requested from the BoM at 3 hourly intervals from 1970 to 2017 from the closest weather station to the Peel-Harvey Estuary. Note that the position of this weather station was shifted during this period, as outlined below and shown in Fig. 1: 
 
 - Meteorological_Data_009572_1970-1985:  (Site ID: 009572; Site Name: Halls Head)
 - Meteorological_Data_009887_1987-2001: 1987 - 2001 (Site ID: 009887; Site Name: Mandurah)
 - Meteorological_Data_009977_2001-2017: 2001 - 2017 (Site ID: 009977; Site Name: Mandurah)
 
----
 
-**Following variables are included in the datasets:**
+**The following meteorological variables are included in the datasets:**
 
 - Station ID
 - Date and Time
@@ -33,7 +32,7 @@ Data was requested at 3 hourly interval, covering different periods from 1970 to
   </kbd>
 </p>
 
-**Figure.** Site map of weather stations, denoted by the ringed-cross symbols.
+**Figure 1.** Site map of weather stations, denoted by the ringed-cross symbols.
 
 
 <!--
