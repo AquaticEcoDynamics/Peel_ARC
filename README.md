@@ -1,4 +1,4 @@
-# ARC Linkage Project (LP150100451) 
+# Peel-Harvey catchment-estuary dataset (1970-2050): ARC Linkage Project LP150100451
 <!-- 
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/ARC.jpeg" width="189" height="51.5" align="right">
  -->
