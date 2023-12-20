@@ -1,4 +1,4 @@
-## Benthic macroinvertebrates <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch-new.png" width="180" height="100" align="right">
+## Benthic macroinvertebrates <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/Logos/murdoch-new.png" width="180" height="100" align="right">
 
 Data archive for Murdoch University's benthic macroinvertebrate sampling in the Peel-Harvey Estuary.
 
@@ -21,7 +21,7 @@ community as determined by the Estuarine Benthic Community index devised during 
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/ben1.jpg" width="600" height="622.5" align="center">
+    <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/ben1.jpg" width="600" height="622.5" align="center">
   </kbd>
 </p>
 
