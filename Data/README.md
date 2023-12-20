@@ -15,7 +15,7 @@ While most data is included in the archive, some data are available upon request
 | ------------------------- | ------------------------- | ----------- | ------------ | ------------------ |
 | Meteorology               | Bureau Of Meteorology     | 1970 - 2018 | Included     | [Mr. Brendan Busch](mailto:brendan.busch@uwa.edu.au)      |
 | Land Use                  | Department of Water and Environmental Regulation | 2015         | Included     | [Mr. Karl Hennig](mailto:Karl.Hennig@water.wa.gov.au)  |
-| Nutrient Concentrations   | Department of Water and Environmental Regulation & Murdoch University        | 1977 - 2018 | Included     | [Mr. Brendan Busch](mailto:brendan.busch@uwa.edu.au)     |
+| Nutrient Concentrations   | Department of Water and Environmental Regulation & Murdoch University        | 1977 - 2018 | Included/On request      | [Mr. Brendan Busch](mailto:brendan.busch@uwa.edu.au)     |
 | Phytoplankton             | Department of Water and Environmental Regulation                      | 2008        | Included     | [Mr. Brendan Busch](mailto:brendan.busch@uwa.edu.au)     |
 | Nutrient Isotopes         | Southern Cross University | 2017 - 2018 | Included     | [Mr. Brendan Busch](mailto:brendan.busch@uwa.edu.au)      |
 | Seagrass and Macroalgae                | Murdoch University        | 1978 - 2018 | On request   | [Dr. James Tweedley](mailto:j.tweedley@murdoch.edu.au) |
