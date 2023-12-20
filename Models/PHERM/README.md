@@ -13,7 +13,7 @@ Public repository for the the coupled TUFLOW-fv and AED estuary modelling files 
 This study developed a 3D finite-volume coupled hydrodynamic-water quality model to assess changes in estuary hydrodynamics and water quality, considering how attributes such as water retention time, 
 salinity and nutrients have responded to the drying climate trend the artificial channel over the period from 1970 to 2016, and how they will evolve under current climate projections. 
 
-The water quality response model consists of a 3D hydrodynamic model [TUFLOW-FV](https://www.tuflow.com/downloads/#tuflow_fv), which is dynamically coupled with the [AED water quality model](https://aquaticecodynamics.github.io/aed-science/) to simulate 
+The water quality response model consists of a 3D hydrodynamic model [TUFLOW-FV](https://www.tuflow.com/downloads/#tuflow_fv), which is dynamically coupled with the [AED water quality model (v2.2.1)](https://aquaticecodynamics.github.io/aed-science/) to simulate 
 the nutrient cycling and key biogeochemical processes. The AED water quality modules were configured to simulate the C, N, P, and DO budgets, including resolving the inorganic 
 nutrients and organic matter fractions, and primary production.
 
