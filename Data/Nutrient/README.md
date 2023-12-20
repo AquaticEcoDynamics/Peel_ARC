@@ -13,6 +13,10 @@ Data on the nutrient concentrations within the water column were collected at mu
 
 Weekly data on the concentrations of various nitrogen and phosphorous species were recorded by MAFRL at the surface and bottom of the water column at 6 sites within the Peel-Harvey Estuary between 1977 and 2001 (Fig. 1).
 
+> [!NOTE]
+> Data is available upon request. Data contact:  [Dr James Tweedley](mailto:j.tweedley@murdoch.edu.au)
+
+
 #### 2. 2001 - 2018; Data collected by the DWER ("WIR Data 2001 - 2018.mat"): 
 
 Nutrient concentration data recorded at monitoring sites throughout the estuary between 2001 and 2018 (Fig. 1) by the DWER has been collated from their [Water Information Reporting system](https://wir.water.wa.gov.au/Pages/Water-Information-Reporting.aspx).
