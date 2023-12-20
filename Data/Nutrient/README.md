@@ -9,7 +9,7 @@ Data archive for the nutrient concentration data collected by the Marine and Fre
 Data on the nutrient concentrations within the water column were collected at multiple sites throughout the Peel-Harvey Estuary from 1970-2018, as outlined below and shown in Fig. 1.
 
 
-#### 1. 1977 - 2001; Data collected by the Marine and Freshwater Laboratory ("MAFRL Data 1977 - 2001.xlsx"): 
+#### 1. 1977 - 2001; Data collected by the Marine and Freshwater Laboratory: 
 
 Weekly data on the concentrations of various nitrogen and phosphorous species were recorded by MAFRL at the surface and bottom of the water column at 6 sites within the Peel-Harvey Estuary between 1977 and 2001 (Fig. 1).
 
