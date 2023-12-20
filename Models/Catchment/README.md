@@ -1,4 +1,4 @@
-## Catchment Model    <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/dwer.png" align="right"> 
+## Catchment Model    <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/Logos/dwer.png" align="right"> 
 
 Public repository for the the Source (eWater®) catchment modelling results for Peel-Harvey Catchment
 
@@ -35,7 +35,7 @@ The hydrological model was calibrated predominantly using gauged station data fr
 - Vegetated: Vegetated land-uses (such as plantations, rural living [bush block], native vegetation) were calibrated to vegetated gauged catchments. Model parameters were assigned by major river (Serpentine and Murray).
 - Cleared: Cleared land-uses (such as dairy, beef, cropping, horticulture) were calibrated to flow gauging stations throughout the Peel-Harvey catchment.
 
- <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/landuses2.jpg">
+ <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/landuses2.jpg">
 
 **Figure 1. Land use classes for the Peel-Harvey**
 -->
