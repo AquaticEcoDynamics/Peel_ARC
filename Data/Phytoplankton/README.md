@@ -1,4 +1,4 @@
-## Phytoplankton <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/dwer.png" align="right">
+## Phytoplankton <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/Logos/dwer.png" align="right">
 
 Data archive for phytoplankton data collected by the Department of Water and Environmental Regulation (DWER) in the Peel-Harvey Estuary in 2008.
 

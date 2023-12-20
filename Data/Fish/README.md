@@ -1,4 +1,4 @@
-## Fish <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch-new.png" width="180" height="100" align="right">
+## Fish <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/Logos/murdoch-new.png" width="180" height="100" align="right">
 
 Data archive for Murdoch University's fish sampling program between 2016 - 2018.
 
@@ -28,7 +28,7 @@ sampling gear used in different studies.
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/fish1.jpg" width="600" height="622.5" align="center">
+    <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/fish1.jpg" width="600" height="622.5" align="center">
   </kbd>
 </p>
 

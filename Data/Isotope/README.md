@@ -1,4 +1,4 @@
-## Nutrient Isotopes   <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/scu.png" align="right">
+## Nutrient Isotopes   <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/Logos/scu.png" align="right">
 
 Data archive for Southern Cross Univeristy isotope sampling in the Peel-Harvey Estuary, 2017 - 2018.
 
@@ -21,7 +21,7 @@ nitrogen were carried out at two estuary locations (see Fig. 1 below) in winter 
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/isotope.jpg" width="677.5" height="981" align="center">
+    <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/isotope.jpg" width="677.5" height="981" align="center">
   </kbd>
 </p>
 

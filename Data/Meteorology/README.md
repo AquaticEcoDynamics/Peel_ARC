@@ -1,4 +1,4 @@
-## Meteorology <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/bom.gif" align="right">
+## Meteorology <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/Logos/bom.gif" align="right">
 
 Data archive for meteorological data for the Peel-Harvey region, obtained from the Bureau of Meteorology (BoM).  
 
@@ -28,7 +28,7 @@ The following meteorological variables are included in the datasets:
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/met-station.png" width="406.5" height="539.5" style="border: 2px solid  gray;">
+    <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/met-station.png" width="406.5" height="539.5" style="border: 2px solid  gray;">
   </kbd>
 </p>
 
@@ -38,7 +38,7 @@ The following meteorological variables are included in the datasets:
 <!--
 ## Example summary plot of weather data
 
-<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/BOM.png">
+<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/BOM.png">
 
 **Figure.** Example summary plot of weather data in 2009. Further data can be requested directly from the <a href="http://www.bom.gov.au/">Bureau of Meteorology</a>
 

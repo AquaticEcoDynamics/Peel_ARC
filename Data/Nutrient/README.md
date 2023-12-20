@@ -1,4 +1,4 @@
-## Nutrient  <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/dwer.png" align="right"> <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch-new.png" width="180" height="100" align="right"> 
+## Nutrient  <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/Logos/dwer.png" align="right"> <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/Logos/murdoch-new.png" width="180" height="100" align="right"> 
 
 <p></p>
 Data archive for the nutrient concentration data collected by the Marine and Freshwater Laboratory (MARFL) at Murdoch University and the Department of Water and Environmental Regulation (DWER).
@@ -28,7 +28,7 @@ The data is contained within a Matlab formatted **.mat** file and only contains 
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Data_Overview.png" width="714" height="884.5" align="center">
+    <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/Data_Overview.png" width="714" height="884.5" align="center">
   </kbd>
 </p>
 
@@ -56,7 +56,7 @@ The data is contained within a Matlab formatted **.mat** file and only contains 
 - PHAEO
 ```
 
-<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/MAFRL.png">
+<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/MAFRL.png">
 
 | Contact                          | Email Address               |
 | -------------------------------- | --------------------------- |

@@ -1,4 +1,4 @@
-## Seagrass and Macroalgae <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/murdoch-new.png" width="180" height="100" align="right">
+## Seagrass and Macroalgae <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/Logos/murdoch-new.png" width="180" height="100" align="right">
 
 Data archive for Murdoch University's seagrass and macroalgae sampling throughout the Peel-Harvey Estuary.
 
@@ -22,7 +22,7 @@ each sampling occasion includes the average biomass of each macrophyte group, ty
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/seagrass1.jpg" width="659" height="866" align="center">
+    <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/seagrass1.jpg" width="659" height="866" align="center">
   </kbd>
 </p>
 

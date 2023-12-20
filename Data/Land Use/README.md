@@ -1,4 +1,4 @@
-## Land Use   <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/dwer.png" align="right">
+## Land Use   <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/Logos/dwer.png" align="right">
 
 Data archive for the Department of Water and Environmental Regulation's catchment land use shape files.
 
@@ -15,7 +15,7 @@ and riparian zone revegetation.
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/landuse2.jpg" width="876.5" height="620.5" align="center">
+    <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/landuse2.jpg" width="876.5" height="620.5" align="center">
   </kbd>
 </p>
 
