@@ -1,4 +1,4 @@
-## Models <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/aed.png" width="142.4" height="56.4"  align="right">  <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/dwer.png" align="right"> 
+## Models <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/Logos/aed.png" width="142.4" height="56.4"  align="right">  <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/Logos/dwer.png" align="right"> 
 
 Archive for catchment and estuary model files developed for the linkage program.
 
@@ -26,7 +26,7 @@ The basis of the hydrological model comprised three different models for land-us
 - Vegetated: Vegetated land-uses (such as plantations, rural living [bush block], native vegetation) were calibrated to vegetated gauged catchments. Model parameters were assigned by major river (Serpentine and Murray).
 - Cleared: Cleared land-uses (such as dairy, beef, cropping, horticulture) were calibrated to flow gauging stations throughout the Peel-Harvey catchment.
 
- <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/landuses2.jpg">
+ <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/landuses2.jpg">
 
 **Figure 1. Land use classes for the Peel-Harvey**
 
@@ -36,7 +36,7 @@ The basis of the hydrological model comprised three different models for land-us
 
 The PHERM (Peel-Harvey Estuary Response Model) consists of a 3D hydrodynamic model TUFLOW-FV (BMT WBM, 2013), which is dynamically coupled with the AED2 water quality model to simulate the nutrient cycling and key biogeochemical processes (Figure 1). TUFLOW-FV is a 3D flexible-mesh (finite volume) hydrodynamic model that accounts for variations in water level, horizontal salinity distribution and vertical density stratification in response to tides, inflows and surface thermodynamics. The AED2 is an open-source community-driven library of model components for simulation of "aquatic ecodynamics" - water quality, habitat and aquatic ecosystem dynamics. The model has been developed by the UWA AED research group as a flexible library of interacting components and it can plug with multiple hydrodynamic platforms, including TUFLOW-FV. The water quality modules were configured to simulate the C, N, P, and DO budgets, including resolving the inorganic nutrients and organic matter fractions, and primary production (Table 1; Figure 2). Spatial variation and sediment quality and benthic properties (including biomass of seagrass, macroalgae and bivalves) was also included. More details of PHERM, including the settings of mesh, inflow and weather conditions, and key parameters are available in the Github PHERM model folder.
 
-<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/pherm.png">
+<img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/pherm.png">
 
 **Figure 2. Diagram of PHERM coupling the hydrodynamic model TUFLOW-FV and water quality model AED2. Light yellow color indicates the modules being activated in the water quality model.**
 
