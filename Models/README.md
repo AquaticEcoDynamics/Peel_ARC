@@ -1,15 +1,15 @@
 ## Models <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/Logos/aed.png" width="142.4" height="56.4"  align="right">  <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/Logos/dwer.png" align="right"> 
 
-Archive for catchment and estuary model files developed for the linkage program.
+Archive for the Peel-Harvey catchment and estuary models.
 
 ---
 
 ### Overview
 
-Contained within this repository is model files developed during the linkage program, catalogued into two groups:
+Contained within this repository are the model files that were developed to support a decision support framework for ARC Linkage Project LP150100451 [Balancing estuarine and societal health in a changing environment](https://aquaticecodynamics.github.io/peel-book/index.html).
 
-- **Catchment:** repository for Peel-Harvey catchment modelling files
-- **PHERM** (**P**eel-**H**arvey **E**stuary **R**esponse **M**odel): repository for Peel-Harvey Estuary hydrology and water quality modelling files
+- **Catchment:** Repository for the Peel-Harvey catchment hydrological and nutrient modelling files.
+- **PHERM** (**P**eel-**H**arvey **E**stuary **R**esponse **M**odel): Repository for the Peel-Harvey estuary hydrology and water quality modelling files.
 
 <!--
 ## Catchment Model
