@@ -2,6 +2,10 @@
 <!-- 
 <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Images/Logos/ARC.jpeg" width="189" height="51.5" align="right">
  -->
+
+[![DOI](https://zenodo.org/badge/246998446.svg)](https://doi.org/10.5281/zenodo.10421018)
+
+
  
 ## Data & Model Repository
 
