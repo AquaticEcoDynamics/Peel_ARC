@@ -9,7 +9,7 @@ While most data is included in the archive, some data are available upon request
 
 ---
 
-**Table 1.** Summary of data resources and availabilty.
+**Table 1.** Summary of data resources and availability.
 
 | Data Type                 | Organisation              | Time Period | Availability | Contact            |
 | ------------------------- | ------------------------- | ----------- | ------------ | ------------------ |
