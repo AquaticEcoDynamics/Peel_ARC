@@ -15,5 +15,7 @@ Measurements of the corresponding nutrient and physical conditions were also rec
 - Chlorophylls
 - Concentration of chlorophylls a, b and c and Phaeophyta
 
+<!--
 > [!NOTE]
 > The dataset was provided by DWER during the linkage program. For an up-to-date dataset please contact the [DWER](https://www.wa.gov.au/contact-us). 
+-->
