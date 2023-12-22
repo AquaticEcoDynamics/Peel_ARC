@@ -1,4 +1,4 @@
-## Nutrient  <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/Logos/dwer.png" align="right"> <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/Logos/murdoch-new.png" width="180" height="100" align="right"> 
+## Nutrient Concentrations  <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/Logos/dwer.png" align="right"> <img src="https://github.com/AquaticEcoDynamics/Peel_ARC/blob/master/Data/Sitemaps/Logos/murdoch-new.png" width="180" height="100" align="right"> 
 
 <p></p>
 Data archive for the nutrient concentration data collected by the Marine and Freshwater Laboratory (MARFL) at Murdoch University and the Department of Water and Environmental Regulation (DWER).
@@ -14,7 +14,7 @@ Data on the nutrient concentrations within the water column were collected at mu
 Weekly data on the concentrations of various nitrogen and phosphorous species were recorded by MAFRL at the surface and bottom of the water column at 6 sites within the Peel-Harvey Estuary between 1977 and 2001 (Fig. 1).
 
 > [!NOTE]
-> Data is available upon request. Data contact:  [Dr James Tweedley](mailto:j.tweedley@murdoch.edu.au)
+> Data is available upon request. Data contact:  [Mr. Krzysztof Wienczugow](mailto:k.wienczugow@murdoch.edu.au)
 
 
 #### 2. 2001 - 2018; Data collected by the DWER ("WIR Data 2001 - 2018.mat"): 
